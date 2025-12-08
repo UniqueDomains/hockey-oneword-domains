@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .HOCKEY one-word domains still available to buy.
 
-This dataset contains 4,883 .HOCKEY one word domains with availability, attractiveness and demand scores.
+This dataset contains 5,228 .HOCKEY one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.HOCKEY one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=hockey-oneword-domains&utm_content=description.top) (4,877) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,49 +13,49 @@ If you want to search & filters the complete database of [.HOCKEY one word domai
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/hockey-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/hockey-oneword-domains/blob/main/hockey.csv"><b>⬇️ CSV (4.88K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/hockey-oneword-domains/blob/main/hockey.json"><b>⬇️ JSON (4.88K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/hockey-oneword-domains/blob/main/hockey.csv"><b>⬇️ CSV (5.23K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/hockey-oneword-domains/blob/main/hockey.json"><b>⬇️ JSON (5.23K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=hockey-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.88K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain            | Status    | Attract. | Demand | Length | Registrar         | Created          | Expires          |
-| ----------------- | --------- | -------- | ------ | ------ | ----------------- | ---------------- | ---------------- |
-| aaa.hockey        | resell    | 70       | 38%    | 3      | GoDaddy.com, LLC  | 08/05/2023 17:53 | 08/05/2026 17:53 |
-| abactinal.hockey  | available | 50       | 1%     | 9      |                   |                  |                  |
-| abaft.hockey      | available | 43       | 2%     | 5      |                   |                  |                  |
-| abandoned.hockey  | available | 58       | 7%     | 9      |                   |                  |                  |
-| abashed.hockey    | available | 60       | 2%     | 7      |                   |                  |                  |
-| abasic.hockey     | available | 54       | 2%     | 6      |                   |                  |                  |
-| abatable.hockey   | available | 54       | 1%     | 8      |                   |                  |                  |
-| abatic.hockey     | available | 54       | 2%     | 6      |                   |                  |                  |
-| abaxial.hockey    | available | 54       | 2%     | 7      |                   |                  |                  |
-| abbatial.hockey   | available | 50       | 1%     | 8      |                   |                  |                  |
-| abc.hockey        | resell    | 102      | 41%    | 3      | Sav.com, LLC - 39 | 31/12/2024 15:16 | 31/12/2025 15:16 |
-| abdicable.hockey  | available | 50       | 1%     | 9      |                   |                  |                  |
-| abdominal.hockey  | available | 82       | 5%     | 9      |                   |                  |                  |
-| abdominous.hockey | available | 56       | 1%     | 10     |                   |                  |                  |
-| abducens.hockey   | available | 54       | 1%     | 8      |                   |                  |                  |
-| abducent.hockey   | available | 68       | 1%     | 8      |                   |                  |                  |
-| abducting.hockey  | available | 50       | 1%     | 9      |                   |                  |                  |
-| abenaki.hockey    | available | 82       | 3%     | 7      |                   |                  |                  |
-| aberdonian.hockey | available | 68       | 1%     | 10     |                   |                  |                  |
-| aberrant.hockey   | available | 74       | 7%     | 8      |                   |                  |                  |
-| abeyant.hockey    | available | 56       | 2%     | 7      |                   |                  |                  |
-| abhorrent.hockey  | available | 54       | 3%     | 9      |                   |                  |                  |
-| abiding.hockey    | available | 106      | 5%     | 7      |                   |                  |                  |
-| abient.hockey     | available | 54       | 1%     | 6      |                   |                  |                  |
-| ability.hockey    | available | 92       | 18%    | 7      |                   |                  |                  |
-| abit.hockey       | available | 66       | 16%    | 5      |                   |                  |                  |
-| abject.hockey     | available | 94       | 8%     | 6      |                   |                  |                  |
-| abkhas.hockey     | available | 68       | 1%     | 6      |                   |                  |                  |
-| abkhasian.hockey  | available | 78       | 1%     | 9      |                   |                  |                  |
-| abkhaz.hockey     | available | 82       | 2%     | 6      |                   |                  |                  |
+| Domain            | Status    | Attract. | Demand | Length | Registrar        | Created          | Expires          |
+| ----------------- | --------- | -------- | ------ | ------ | ---------------- | ---------------- | ---------------- |
+| aaa.hockey        | resell    | 70       | 35%    | 3      | GoDaddy.com, LLC | 08/05/2023 17:53 | 08/05/2026 17:53 |
+| abactinal.hockey  | available | 50       | 1%     | 9      |                  |                  |                  |
+| abaft.hockey      | available | 43       | 2%     | 5      |                  |                  |                  |
+| abandoned.hockey  | available | 58       | 7%     | 9      |                  |                  |                  |
+| abashed.hockey    | available | 60       | 2%     | 7      |                  |                  |                  |
+| abasic.hockey     | available | 54       | 2%     | 6      |                  |                  |                  |
+| abatable.hockey   | available | 54       | 1%     | 8      |                  |                  |                  |
+| abatic.hockey     | available | 54       | 2%     | 6      |                  |                  |                  |
+| abaxial.hockey    | available | 54       | 2%     | 7      |                  |                  |                  |
+| abbatial.hockey   | available | 50       | 1%     | 8      |                  |                  |                  |
+| abdicable.hockey  | available | 50       | 1%     | 9      |                  |                  |                  |
+| abdominal.hockey  | available | 82       | 5%     | 9      |                  |                  |                  |
+| abdominous.hockey | available | 56       | 1%     | 10     |                  |                  |                  |
+| abducens.hockey   | available | 54       | 1%     | 8      |                  |                  |                  |
+| abducent.hockey   | available | 68       | 1%     | 8      |                  |                  |                  |
+| abducting.hockey  | available | 50       | 1%     | 9      |                  |                  |                  |
+| abenaki.hockey    | available | 82       | 3%     | 7      |                  |                  |                  |
+| aberdonian.hockey | available | 68       | 1%     | 10     |                  |                  |                  |
+| aberrant.hockey   | available | 74       | 7%     | 8      |                  |                  |                  |
+| abeyant.hockey    | available | 56       | 2%     | 7      |                  |                  |                  |
+| abhorrent.hockey  | available | 54       | 3%     | 9      |                  |                  |                  |
+| abide.hockey      | available | 94       | 15%    | 5      |                  |                  |                  |
+| abiding.hockey    | available | 106      | 5%     | 7      |                  |                  |                  |
+| abient.hockey     | available | 54       | 1%     | 6      |                  |                  |                  |
+| ability.hockey    | available | 92       | 16%    | 7      |                  |                  |                  |
+| abit.hockey       | available | 66       | 12%    | 5      |                  |                  |                  |
+| abject.hockey     | available | 94       | 8%     | 6      |                  |                  |                  |
+| abkhas.hockey     | available | 68       | 1%     | 6      |                  |                  |                  |
+| abkhasian.hockey  | available | 78       | 1%     | 9      |                  |                  |                  |
+| abkhaz.hockey     | available | 82       | 2%     | 6      |                  |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/hockey-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/hockey-oneword-domains/blob/main/hockey.csv"><b>⬇️ CSV (4.88K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/hockey-oneword-domains/blob/main/hockey.json"><b>⬇️ JSON (4.88K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/hockey-oneword-domains/blob/main/hockey.csv"><b>⬇️ CSV (5.23K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/hockey-oneword-domains/blob/main/hockey.json"><b>⬇️ JSON (5.23K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=hockey-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.88K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.HOCKEY one word domai
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
