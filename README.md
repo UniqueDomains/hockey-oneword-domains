@@ -72,17 +72,17 @@ print(df.head())
 | travel.hockey   | premium   | $1,040    | $1,040        | 115            | 48     | 6      | namecheap         |
 | business.hockey | available | $72.98    | —             | 100            | 53     | 8      | namecheap         |
 | info.hockey     | resell    | —         | —             | 80             | 51     | 4      | Sav.com, LLC      |
-| direct.hockey   | premium   | $123.75   | $123.75       | 104            | 38     | 6      | name.com          |
-| fast.hockey     | available | $14.99    | $77.99        | 82             | 53     | 4      | name.com          |
+| direct.hockey   | premium   | $123.75   | $123.75       | 104            | 40     | 6      | name.com          |
+| art.hockey      | available | $72.98    | —             | 90             | 52     | 3      | namecheap         |
 | game.hockey     | resell    | —         | —             | 120            | 50     | 4      | GoDaddy.com, LLC  |
 | gay.hockey      | premium   | —         | —             | 122            | 99     | 3      | —                 |
-| art.hockey      | available | $72.98    | —             | 90             | 52     | 3      | namecheap         |
+| true.hockey     | available | $14.99    | $77.99        | 86             | 52     | 4      | name.com          |
 | air.hockey      | resell    | —         | —             | 84             | 49     | 3      | GoDaddy.com, LLC  |
 | blue.hockey     | premium   | —         | —             | 92             | 99     | 4      | —                 |
-| true.hockey     | available | $14.99    | $77.99        | 86             | 52     | 4      | name.com          |
+| fast.hockey     | available | $14.99    | $77.99        | 82             | 52     | 4      | name.com          |
 | team.hockey     | resell    | —         | —             | 76             | 49     | 4      | Sav.com, LLC      |
 | love.hockey     | premium   | —         | —             | 86             | 99     | 4      | —                 |
-| design.hockey   | available | $14.99    | $77.99        | 108            | 50     | 6      | name.com          |
+| simple.hockey   | available | $14.99    | $77.99        | 128            | 49     | 6      | name.com          |
 | aaa.hockey      | resell    | —         | —             | 70             | 42     | 3      | GoDaddy.com, LLC  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
