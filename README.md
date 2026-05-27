@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .hockey one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,702 domains · **Median ask:** $20.36 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/hockey`  
 **Best for:** founders, investors, studios
 
@@ -71,19 +71,19 @@ print(df.head())
 | aliens.hockey   | available | $14.99    | —             | 56             | 35     | 6      | name.com         |
 | homes.hockey    | available | $14.99    | —             | 86             | 34     | 5      | name.com         |
 | spectra.hockey  | available | $14.99    | —             | 62             | 34     | 7      | name.com         |
-| etc.hockey      | available | $14.99    | —             | 58             | 34     | 3      | name.com         |
 | Cats.hockey     | available | $72.98    | —             | 59             | 33     | 4      | namecheap        |
 | payments.hockey | available | $14.99    | —             | 58             | 33     | 8      | name.com         |
 | teams.hockey    | available | $14.99    | —             | 62             | 32     | 5      | name.com         |
+| etc.hockey      | available | $14.99    | —             | 58             | 32     | 3      | name.com         |
 | slots.hockey    | available | $14.99    | —             | 49             | 31     | 5      | name.com         |
 | spaces.hockey   | available | $14.99    | —             | 54             | 30     | 6      | name.com         |
 | videos.hockey   | available | $14.99    | —             | 52             | 30     | 6      | name.com         |
+| gods.hockey     | available | $14.99    | —             | 72             | 29     | 4      | name.com         |
 | popup.hockey    | available | $14.99    | —             | 84             | 28     | 6      | name.com         |
 | dogs.hockey     | available | $14.99    | —             | 76             | 28     | 4      | name.com         |
 | brands.hockey   | available | $14.99    | —             | 62             | 28     | 6      | name.com         |
 | forms.hockey    | available | $14.99    | —             | 54             | 28     | 5      | name.com         |
 | backyard.hockey | available | $14.99    | —             | 80             | 27     | 9      | name.com         |
-| gods.hockey     | available | $14.99    | —             | 72             | 27     | 4      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOCKEY One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOCKEY One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
