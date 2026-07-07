@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .hockey one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,702 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,702 domains · **Median ask:** $20.36 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,702 domains · **Median ask:** $17.21 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/hockey`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/hockey`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .HOCKEY one-word domai
 
 ### Files
 
-- `hockey.csv` — public CSV extract (1,000 rows)
-- `hockey.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `hockey.csv`, public CSV extract (1,000 rows)
+- `hockey.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| agents.hockey   | available | $14.99    | —             | 56             | 50     | 6      | name.com         |
-| pros.hockey     | resell    | —         | —             | 53             | 23     | 4      | GoDaddy.com, LLC |
-| cars.hockey     | available | $14.99    | —             | 66             | 47     | 4      | name.com         |
-| prompts.hockey  | available | $14.99    | —             | 54             | 39     | 7      | name.com         |
-| aliens.hockey   | available | $14.99    | —             | 56             | 35     | 6      | name.com         |
-| homes.hockey    | available | $14.99    | —             | 86             | 34     | 5      | name.com         |
-| spectra.hockey  | available | $14.99    | —             | 62             | 34     | 7      | name.com         |
-| Cats.hockey     | available | $72.98    | —             | 59             | 33     | 4      | namecheap        |
-| payments.hockey | available | $14.99    | —             | 58             | 33     | 8      | name.com         |
-| teams.hockey    | available | $14.99    | —             | 62             | 32     | 5      | name.com         |
-| etc.hockey      | available | $14.99    | —             | 58             | 32     | 3      | name.com         |
-| slots.hockey    | available | $14.99    | —             | 49             | 31     | 5      | name.com         |
-| spaces.hockey   | available | $14.99    | —             | 54             | 30     | 6      | name.com         |
-| videos.hockey   | available | $14.99    | —             | 52             | 30     | 6      | name.com         |
-| gods.hockey     | available | $14.99    | —             | 72             | 29     | 4      | name.com         |
-| popup.hockey    | available | $14.99    | —             | 84             | 28     | 6      | name.com         |
-| dogs.hockey     | available | $14.99    | —             | 76             | 28     | 4      | name.com         |
-| brands.hockey   | available | $14.99    | —             | 62             | 28     | 6      | name.com         |
-| forms.hockey    | available | $14.99    | —             | 54             | 28     | 5      | name.com         |
-| backyard.hockey | available | $14.99    | —             | 80             | 27     | 9      | name.com         |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| bad.hockey        | available | $14.99    | —             | high           | medium | 3      | name.com  |
+| art.hockey        | available | $14.99    | —             | high           | medium | 3      | name.com  |
+| time.hockey       | premium   | $854      | $854          | high           | medium | 4      | namesilo  |
+| kingdom.hockey    | premium   | $854      | $854          | high           | low    | 7      | namesilo  |
+| btw.hockey        | available | $14.99    | —             | high           | low    | 3      | name.com  |
+| montreal.hockey   | premium   | $123.75   | —             | medium         | low    | 8      | name.com  |
+| dad.hockey        | available | $14.99    | —             | high           | low    | 3      | name.com  |
+| california.hockey | premium   | $118.80   | $118.80       | high           | low    | 10     | namesilo  |
+| egg.hockey        | available | $14.99    | —             | high           | low    | 3      | name.com  |
+| washington.hockey | premium   | $78.54    | $78.54        | high           | low    | 10     | namesilo  |
+| Eid.hockey        | available | $14.99    | —             | high           | low    | 3      | name.com  |
+| fly.hockey        | available | $14.99    | —             | high           | low    | 3      | name.com  |
+| had.hockey        | available | $14.99    | —             | high           | low    | 3      | name.com  |
+| job.hockey        | available | $14.99    | —             | high           | low    | 3      | name.com  |
+| lol.hockey        | available | $14.99    | —             | high           | low    | 3      | name.com  |
+| may.hockey        | available | $14.99    | —             | high           | low    | 3      | name.com  |
+| mum.hockey        | available | $14.99    | —             | high           | low    | 3      | name.com  |
+| old.hockey        | available | $14.99    | —             | high           | low    | 3      | name.com  |
+| pig.hockey        | available | $14.99    | —             | high           | low    | 3      | name.com  |
+| pop.hockey        | available | $14.99    | $77.99        | high           | medium | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .hockey domains. The names are broad dictionary terms rather than tightly hockey-specific phrases, with examples such as bore.hockey, principal.hockey, tailormade.hockey, elegant.hockey, verb.hockey, and tradition.hockey. That makes this set more about brandable positioning inside the .hockey extension than exact-match search demand. For founders, the key question is whether a word feels memorable and credible when paired with .hockey. For investors, the key question is whether the ask leaves room for a realistic spread after renewal costs and the narrower buyer pool that comes with a specialty TLD.
+This selection covers one-word and short compound .hockey domain names, from direct action words like geton.hockey and letitbe.hockey to descriptive phrases like dogwalking.hockey and coffeecupful.hockey. With a median ask near $17, most names in this list sit within reach of both first-time buyers building a niche hockey brand and investors scanning for undervalued short-form domains. The consistent .hockey extension makes it straightforward to compare names side by side on length, clarity, and brand fit.
 
-- All results are one-word domains on the .hockey extension
-- Median ask across this selection is 20.41
-- Broad dictionary words dominate this set
-- Judge each name by fit, recall, and renewal tolerance
+- 12,702 one-word .hockey domains available for review
+- Median asking price around $17 across the full list
+- Names range from short action words to descriptive phrases
+- Consistent .hockey extension simplifies side-by-side comparison
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOCKEY One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOCKEY One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
