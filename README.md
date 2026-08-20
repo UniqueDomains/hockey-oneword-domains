@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .hockey one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,652 domains · **Median ask:** $16.37 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/hockey`
 **Best for:** founders, investors, studios
 
@@ -64,12 +64,11 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| bad.hockey        | available | $14.99    | —             | high           | medium | 3      | name.com  |
-| room.hockey       | available | $14.99    | —             | high           | low    | 4      | name.com  |
 | art.hockey        | available | $14.99    | —             | high           | medium | 3      | name.com  |
 | time.hockey       | premium   | $854      | $854          | high           | medium | 4      | namesilo  |
 | ass.hockey        | available | $14.99    | $77.99        | low            | low    | 3      | name.com  |
 | kingdom.hockey    | premium   | $854      | $854          | high           | low    | 7      | namesilo  |
+| bad.hockey        | available | $14.99    | —             | high           | medium | 3      | name.com  |
 | montreal.hockey   | premium   | $123.75   | —             | medium         | low    | 8      | name.com  |
 | btw.hockey        | available | $14.99    | —             | high           | low    | 3      | name.com  |
 | california.hockey | premium   | $118.80   | $118.80       | high           | low    | 10     | namesilo  |
@@ -84,6 +83,7 @@ print(df.head())
 | may.hockey        | available | $14.99    | —             | high           | low    | 3      | name.com  |
 | mum.hockey        | available | $14.99    | —             | high           | low    | 3      | name.com  |
 | old.hockey        | available | $14.99    | —             | high           | low    | 3      | name.com  |
+| pig.hockey        | available | $14.99    | —             | high           | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOCKEY One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOCKEY One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
