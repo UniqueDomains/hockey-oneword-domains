@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .hockey one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 23,649 domains · **Median ask:** $23.06 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-13
+**Last updated:** 2026-09-14
 **Canonical page:** `https://unique.domains/domains/tld/hockey`
 **Best for:** founders, investors, studios
 
@@ -66,8 +66,6 @@ print(df.head())
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | bad.hockey        | available | $14.99    | —             | high           | medium | 3      | name.com  |
 | time.hockey       | premium   | $854      | $854          | high           | medium | 4      | namesilo  |
-| fancy.hockey      | available | $14.99    | —             | high           | low    | 5      | name.com  |
-| brief.hockey      | available | $14.99    | $77.99        | high           | low    | 5      | name.com  |
 | art.hockey        | available | $14.99    | —             | high           | medium | 3      | name.com  |
 | ass.hockey        | available | $14.99    | $77.99        | low            | low    | 3      | name.com  |
 | kingdom.hockey    | premium   | $854      | $854          | high           | low    | 7      | namesilo  |
@@ -84,6 +82,8 @@ print(df.head())
 | lol.hockey        | available | $14.99    | —             | high           | low    | 3      | name.com  |
 | may.hockey        | available | $14.99    | —             | high           | low    | 3      | name.com  |
 | mum.hockey        | available | $14.99    | —             | high           | low    | 3      | name.com  |
+| old.hockey        | available | $14.99    | —             | high           | low    | 3      | name.com  |
+| pig.hockey        | available | $14.99    | —             | high           | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOCKEY One-Word Domains*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOCKEY One-Word Domains*. Version 2026-09-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
