@@ -28,7 +28,7 @@ e2ccd63b-a491-42e3-b5db-57155638e255,thanksto.hockey,available,14.99,,medium,low
 291ebbf6-0bc0-497b-a7e3-6693bb8ad170,preventive.hockey,available,14.99,77.99,high,low,10,name.com,,,
 5f99e495-53cc-4ea2-b74b-976f15dd26fb,childbenefit.hockey,available,14.99,,medium,low,13,name.com,,,
 37e70f8f-dedb-43ce-94fa-171f1b800187,taxation.hockey,available,14.99,,medium,low,8,name.com,,,
-480bd683-e75d-49b9-97c2-195a0b6ee945,Frenchonionsoup.hockey,available,14.99,,high,low,17,name.com,,,
+480bd683-e75d-49b9-97c2-195a0b6ee945,frenchonionsoup.hockey,available,14.99,,high,low,17,name.com,,,
 9515de5d-38b5-4dd6-9f48-ac06fdf46546,rust.hockey,available,14.99,,medium,low,4,name.com,,,
 a1dbef80-8601-4920-bb61-d7f64f1b8591,wording.hockey,available,14.99,,high,low,7,name.com,,,
 f5ade611-160b-4313-9f35-2772376314c6,atwill.hockey,available,14.99,,medium,low,7,name.com,,,
@@ -38,9 +38,8 @@ f5ade611-160b-4313-9f35-2772376314c6,atwill.hockey,available,14.99,,medium,low,7
 3512ad63-dfa4-4c61-89d1-594a8b3aaa9d,animistic.hockey,available,14.99,77.99,low,low,9,name.com,,,
 743cf60b-891d-4b11-9d47-99e62e948edf,localtime.hockey,available,14.99,,medium,low,10,name.com,,,
 fd26a8ac-b671-44cc-8ecb-b6754dc034e2,whitesauce.hockey,available,14.99,,low,low,11,name.com,,,
-ae15f22d-2292-4833-b53c-76203751394e,Americas.hockey,available,14.99,,medium,low,8,name.com,,,
+ae15f22d-2292-4833-b53c-76203751394e,americas.hockey,available,14.99,,medium,low,8,name.com,,,
 ec9339e9-c336-48cf-8fb8-e4d218acfa8e,brute.hockey,available,14.99,77.99,low,low,5,name.com,,,
-a5243b4b-d72c-4bed-925e-f6deb382bc00,canon.hockey,available,,,high,low,5,,,,
 95d44d31-b67e-4b42-b9c4-51f8e2bd01c1,windmill.hockey,available,59.99,59.99,low,low,9,namesilo,,,17/09/2026 13:01
 49e6909f-a186-48ca-8527-3ac491b4ba9e,advisory.hockey,available,14.99,77.99,medium,low,8,name.com,,,
 d1195b3a-b8b5-421c-8c6f-2a26f108d64c,thereagain.hockey,available,14.99,,low,low,11,name.com,,,
@@ -59,7 +58,7 @@ d1e89c48-3e14-48bb-aca3-a0cb86d8c8c2,pub.hockey,available,14.99,,high,low,3,name
 fa3ee01d-e6d8-4fa1-a748-c88c587a8969,desktopcomputer.hockey,available,14.99,,high,low,16,name.com,,,
 bb744e73-3ca9-41fb-8eaf-0e97f2e0d059,supposedly.hockey,available,14.99,,medium,low,10,name.com,,,
 e157f620-6f60-4acd-9982-acea00afa235,oldest.hockey,available,14.99,,high,low,6,name.com,,,
-22f9994f-56e0-4eab-929f-6a9ab548dbf9,LongIsland.hockey,available,14.99,,medium,low,11,name.com,,,
+22f9994f-56e0-4eab-929f-6a9ab548dbf9,longisland.hockey,available,14.99,,medium,low,11,name.com,,,
 c6d48a63-46cb-4ece-9085-aa2534c052eb,flow.hockey,available,14.99,,high,medium,4,name.com,,,
 33bc0123-d0cf-4f76-8e29-7217cce80610,allelic.hockey,available,14.99,77.99,low,low,7,name.com,,,
 6700201b-5a76-408c-8cdb-ab7c3c263dc8,arranged.hockey,available,14.99,,high,low,8,name.com,,,
@@ -68,7 +67,7 @@ fedf1878-fd2e-49be-8070-faa257127914,letloose.hockey,available,14.99,,high,low,9
 b5b40578-a6ac-4032-b2b8-1d93e4e8264f,occasion.hockey,available,14.99,,high,low,8,name.com,,,
 a9fb1cdd-7e00-4e1a-a7e2-ccabea310a74,antiknock.hockey,available,14.99,77.99,low,low,9,name.com,,,
 c3ce7308-20d2-4e84-92e3-a51a625145ae,duplicate.hockey,available,14.99,77.99,high,low,9,name.com,,,
-0fcdc1f6-8a1a-465f-9f16-7334cdd39d15,Iwantmymoneyback.hockey,available,14.99,,medium,low,20,name.com,,,
+0fcdc1f6-8a1a-465f-9f16-7334cdd39d15,iwantmymoneyback.hockey,available,14.99,,medium,low,20,name.com,,,
 6d1bc57c-91de-4e20-bdad-3e5bf2044a8d,arriving.hockey,available,14.99,,medium,low,8,name.com,,,
 1c1a8065-c272-4afb-b622-5726bde2d95a,time.hockey,premium,854,854,high,medium,4,namesilo,,,
 6169d576-eb08-4d10-a027-408b716c06d0,lookup.hockey,available,14.99,,high,low,7,name.com,,,
@@ -107,7 +106,7 @@ a773f2b3-7d5a-4c86-97a4-c733dddd8f45,aufait.hockey,available,14.99,77.99,low,low
 09408cdf-8332-4bcb-8ebc-2575aab0f044,breakinto.hockey,available,14.99,,medium,low,10,name.com,,,
 09977fed-7c27-45f6-8fd0-f3c0926eb93d,wordis.hockey,available,14.99,,low,low,7,name.com,,,
 0353976a-1a2b-45c0-bbaa-ea15cb702047,kookie.hockey,available,14.99,77.99,low,low,6,name.com,,,06/08/2026 21:09
-b30ad7b8-52c7-41ae-a1ae-baebe448ad88,Walmart.hockey,available,,,high,medium,7,,,,
+b30ad7b8-52c7-41ae-a1ae-baebe448ad88,walmart.hockey,available,,,high,medium,7,,,,
 ea75da14-2cbe-47ac-8d0f-8cd31e9a0b27,authorised.hockey,available,14.99,,high,low,10,name.com,,,
 deda510f-46f7-4847-af2f-6ad72b22b8e1,adorable.hockey,available,14.99,77.99,high,low,8,name.com,,,
 ce45120a-b5de-4709-aaf8-8282325f5d48,bridget.hockey,available,14.99,,high,low,7,name.com,,,
@@ -150,7 +149,7 @@ dbe62456-885d-4cc6-8df2-1bf0e28a3a99,feeling.hockey,available,14.99,,high,low,7,
 8104cf51-1db9-417e-9aa7-268537a0a862,ambitiously.hockey,available,14.99,,medium,low,11,name.com,,,
 9bc89840-0ebc-4637-adf3-eeea321ffcc7,disparity.hockey,available,14.99,,medium,low,9,name.com,,,
 9c09735d-2d6f-4909-af23-8edecc5559fc,sandlike.hockey,available,14.99,77.99,low,low,8,name.com,,,06/08/2026 17:36
-82379d8f-cb0b-4ab9-a3f5-bbdfa04f73a6,Eid.hockey,available,14.99,,high,low,3,name.com,,,
+82379d8f-cb0b-4ab9-a3f5-bbdfa04f73a6,eid.hockey,available,14.99,,high,low,3,name.com,,,
 e38746b0-4baa-4ff9-921d-faadc64b711e,exclamation.hockey,available,14.99,,medium,low,11,name.com,,,
 23915159-6253-43ef-a2a3-65ddee6bbc6c,enjoy.hockey,available,,,high,low,5,,,,
 33295b51-1eb3-4add-869a-da045c911e90,afflictive.hockey,available,14.99,77.99,low,low,10,name.com,,,
@@ -163,8 +162,8 @@ cce9e69e-99b1-46da-b2eb-d9ac15570daf,dogshot.hockey,available,14.99,,high,low,8,
 a700fd78-9f53-4882-a3b8-c947825237a6,healthy.hockey,available,14.99,,high,low,7,name.com,,,
 0aeb2be6-2684-4b08-91df-9576d7562acb,calculation.hockey,available,14.99,,medium,low,11,name.com,,,
 fe690962-9bc6-47a6-b5bb-a694ede20dde,thoseones.hockey,available,14.99,,low,low,10,name.com,,,
-e590c0df-fd03-485a-bdc6-b84676735df3,business.hockey,available,14.99,,high,medium,8,name.com,,,
-e7388f84-6330-4d34-b3e7-1acc0ede256b,intruth.hockey,available,59.99,59.99,low,low,8,namesilo,,,15/09/2026 07:18
+e590c0df-fd03-485a-bdc6-b84676735df3,business.hockey,available,59.99,59.99,medium,low,8,namesilo,,,19/09/2026 02:33
+e7388f84-6330-4d34-b3e7-1acc0ede256b,intruth.hockey,available,59.99,59.99,low,low,8,namesilo,,,19/09/2026 10:53
 20b73368-918f-43fb-a1e5-12ab4f8f5c9d,utterly.hockey,available,14.99,,medium,low,7,name.com,,,
 c4dc5360-08e7-4bea-b871-9f7c19939e77,stung.hockey,available,14.99,77.99,low,low,5,name.com,,,
 858bd1f9-bf6d-45ea-9ae6-f158780a08b9,susceptible.hockey,available,14.99,,high,low,11,name.com,,,
@@ -191,7 +190,7 @@ b72758db-a975-4718-917a-6addf322f6af,closeorder.hockey,available,14.99,,medium,l
 21e2bd30-91c3-46f3-aa94-053664cd921b,coffeemaker.hockey,available,14.99,,high,low,12,name.com,,,
 9f2e197f-7aa8-4f09-9689-1559dd355332,recipient.hockey,available,14.99,,high,low,9,name.com,,,
 6f78a0e8-d1ab-4b4c-93e6-f529aa872bd6,azygous.hockey,available,14.99,77.99,low,low,7,name.com,,,08/08/2026 03:27
-cde24a42-59ca-4ff7-b436-792588196e6f,Spanishrice.hockey,available,14.99,,low,low,12,name.com,,,
+cde24a42-59ca-4ff7-b436-792588196e6f,spanishrice.hockey,available,14.99,,low,low,12,name.com,,,
 5e23ce2b-3d18-4e3c-b6aa-2555f3c2c396,preference.hockey,available,14.99,,high,low,10,name.com,,,
 7bd5db44-9356-496a-9dce-2e1371ca97c3,james.hockey,available,14.99,,high,medium,5,name.com,,,
 67261266-0a1f-400c-8983-ab7e87215359,adenoid.hockey,available,14.99,77.99,low,low,7,name.com,,,
@@ -241,7 +240,7 @@ f53dfb5f-1cf1-4f44-8786-92e8d4ae7bd1,engage.hockey,available,14.99,,high,low,6,n
 57414917-a37c-4784-b7cc-dea28775048f,airfreshener.hockey,available,14.99,,high,low,13,name.com,,,
 3e567a05-df4e-46f7-91b3-36c61e21f571,bringit.hockey,available,14.99,,high,low,8,name.com,,,
 14890436-ba8e-42b4-8af1-f50e01e80425,lookinto.hockey,available,14.99,,high,low,9,name.com,,,
-ee7100e8-826a-4470-9e52-026a43d3c173,markets.hockey,available,59.99,59.99,medium,low,7,namesilo,,,14/09/2026 02:05
+ee7100e8-826a-4470-9e52-026a43d3c173,markets.hockey,available,59.99,59.99,low,low,7,namesilo,,,19/09/2026 05:44
 b9b442f3-f2de-480e-9784-c839cc8ebd4a,late.hockey,available,14.99,,high,low,4,name.com,,,
 6c7bd562-add6-4f86-b9e3-6de1f96d974c,grandma.hockey,available,14.99,,high,low,7,name.com,,,
 21bd62ca-2736-49be-9cd7-742f115ddf5d,clowning.hockey,available,14.99,,medium,low,8,name.com,,,
@@ -251,7 +250,7 @@ e43eb631-eae0-4053-91b8-e06671b01995,auditory.hockey,available,14.99,,high,low,8
 30f99377-ddb4-4cc0-a12c-fe6711487ffa,mopeabout.hockey,available,14.99,,low,low,10,name.com,,,
 4c865829-1efa-4308-af5e-edeea49228ef,afflicted.hockey,available,14.99,77.99,low,low,9,name.com,,,
 d2c84b4a-5496-450d-9e10-537eff4e602b,descend.hockey,available,14.99,,high,low,7,name.com,,,
-6574a8eb-581e-4863-9f11-0a94a80efddd,ISO.hockey,available,,,high,low,3,,,,
+6574a8eb-581e-4863-9f11-0a94a80efddd,iso.hockey,available,,,high,low,3,,,,
 206bfbb3-254c-45ec-b221-88797ba075c0,fierce.hockey,available,14.99,,high,low,6,name.com,,,
 ab1eb104-2586-4b63-919b-b95977319a92,wiz.hockey,available,14.99,77.99,high,low,3,name.com,,,
 e0e4b7a1-da96-47e2-ba9e-85ae81e35240,chanukkah.hockey,available,14.99,,medium,low,9,name.com,,,
@@ -320,7 +319,7 @@ b740e9a4-420b-4f82-87e6-2ba2c906cd57,cons.hockey,available,14.99,,high,low,4,nam
 5b258f19-2f57-4980-868a-0453bc4bae73,fish.hockey,available,14.99,,high,low,4,name.com,,,
 e563d70c-74f2-4207-90e0-007fa613b220,adipose.hockey,available,14.99,77.99,low,low,7,name.com,,,
 d4d27312-371b-4230-9d49-c35788552e14,fancy.hockey,available,14.99,,high,low,5,name.com,,,
-7926b5e6-2bc4-445b-9ba5-77335c81efc5,chiefly.hockey,available,59.99,59.99,low,low,7,namesilo,,,14/09/2026 09:34
+7926b5e6-2bc4-445b-9ba5-77335c81efc5,chiefly.hockey,available,59.99,59.99,low,low,7,namesilo,,,19/09/2026 02:53
 92d4764c-79f2-4b19-bce8-2e8d95f6c100,secured.hockey,available,14.99,,high,low,7,name.com,,,
 fb347c64-40cd-4f2f-b560-ed8a5c0bbb7b,assess.hockey,available,14.99,,high,low,6,name.com,,,
 4eb04928-5dea-42fd-88df-154ec156e337,bridges.hockey,available,14.99,,high,low,7,name.com,,,
@@ -337,7 +336,7 @@ af5a0835-2bed-4891-a21c-85a41000125c,totaled.hockey,available,14.99,,high,low,7,
 d19c7869-06f9-4a76-a60b-accf749cf96f,closeinon.hockey,available,14.99,,high,low,11,name.com,,,
 551a3bae-ab81-407c-aab5-4a4ade853463,achromous.hockey,available,14.99,77.99,low,low,9,name.com,,,
 49fdd96b-0e3c-4ce6-8c81-00f3783315e8,firstrate.hockey,available,14.99,77.99,low,low,10,name.com,,,
-272e3101-83a6-4640-b2da-db0b01a14d5c,goDutch.hockey,available,14.99,,medium,low,8,name.com,,,
+272e3101-83a6-4640-b2da-db0b01a14d5c,godutch.hockey,available,14.99,,medium,low,8,name.com,,,
 af90ff17-bd46-4d53-87ea-33fd19289966,relate.hockey,available,14.99,77.99,low,low,6,name.com,,,07/08/2026 07:03
 41fd0ca1-ab2d-4a68-8bbc-ff7ace927ddc,reflexively.hockey,available,14.99,,low,low,11,name.com,,,
 e216dabb-d122-4fde-809c-9a9025bb57cb,curry.hockey,available,14.99,,high,low,5,name.com,,,
@@ -392,7 +391,7 @@ de3bc287-cb4f-455a-8326-8a0ef2c5ef37,sailor.hockey,available,14.99,,high,low,6,n
 fe463b6e-0475-4827-8f0b-7a24bcc89767,bluegreen.hockey,available,14.99,,high,low,10,name.com,,,
 36046cd6-cfd9-4b37-86d1-0064f5dc1781,ass.hockey,available,14.99,77.99,low,low,3,name.com,,,09/08/2026 12:05
 4ad03996-a917-40b5-a0df-93c3c101af82,cannabis.hockey,available,14.99,,medium,medium,8,name.com,,,
-fffb4259-54f0-474d-804d-ee54571f2d84,Nicole.hockey,available,14.99,,high,low,6,name.com,,,
+fffb4259-54f0-474d-804d-ee54571f2d84,nicole.hockey,available,14.99,,high,low,6,name.com,,,
 8de694e6-ade9-41a9-9e59-badaf7d1072a,although.hockey,available,14.99,,medium,low,8,name.com,,,
 6f042cff-b60d-4323-a783-823e7442f24f,egg.hockey,available,14.99,,high,low,3,name.com,,,
 a2e393d7-5d97-4447-a4db-311b7ad0b5cf,alterative.hockey,available,14.99,77.99,low,low,10,name.com,,,
@@ -402,13 +401,13 @@ fa12a7ba-7ffe-40f0-ae47-acf08382d266,askew.hockey,available,14.99,77.99,low,low,
 223c8a11-ea98-40c3-a5e8-075a8c869ab0,together.hockey,available,14.99,,high,medium,8,name.com,,,
 f2171a6c-56fe-4576-b4db-4a06e4fde565,airdried.hockey,available,14.99,77.99,low,low,9,name.com,,,
 1f2c0730-dd8c-4d6b-b816-d8bcc06ca897,surfer.hockey,available,14.99,,high,low,6,name.com,,,
-0e1f65fa-0ddf-4111-8a4e-6ace5e46ea93,Igotmine.hockey,available,14.99,,medium,low,10,name.com,,,
+0e1f65fa-0ddf-4111-8a4e-6ace5e46ea93,igotmine.hockey,available,14.99,,medium,low,10,name.com,,,
 575a724e-967c-45b4-a0ed-bc5aa2294088,freshair.hockey,available,14.99,,high,low,9,name.com,,,
 946082dd-0677-4d7a-8e36-32a2704a1393,defined.hockey,available,14.99,77.99,medium,low,7,name.com,,,
 bde33595-27f9-44fb-8c8f-7e08408e0fd9,creatively.hockey,available,14.99,,medium,low,10,name.com,,,
 891e02c6-495f-4065-a2e6-7ecfcf3254c9,actuated.hockey,available,14.99,77.99,low,low,8,name.com,,,
 5f639e12-555f-4d70-a223-b460817248a7,commonkiwi.hockey,available,14.99,,medium,low,11,name.com,,,
-237bf414-6061-48a4-938a-e37d7e944086,Instagrammable.hockey,available,14.99,,high,low,14,name.com,,,
+237bf414-6061-48a4-938a-e37d7e944086,instagrammable.hockey,available,14.99,,high,low,14,name.com,,,
 804e7e47-e979-4bed-8399-34185fa4907b,whatthehell.hockey,available,14.99,,low,low,13,name.com,,,
 8a84ad8c-eca4-4657-a413-7a899e9f10d2,batman.hockey,available,14.99,,high,low,6,name.com,,,
 4fe94cc0-cd7e-411a-b65a-b6d44ee265ce,yellow.hockey,available,14.99,,high,low,6,name.com,,,
@@ -429,7 +428,7 @@ f63e948d-4166-4f1d-8ba5-7b65f58d96a3,adaptive.hockey,available,14.99,77.99,high,
 a9ed546a-be4a-40f7-b983-2126e9132060,apractic.hockey,available,14.99,77.99,low,low,8,name.com,,,06/08/2026 09:49
 a082e4a1-a095-4894-8d38-70d04c273167,guestchair.hockey,available,14.99,,medium,low,11,name.com,,,
 d2b4ef30-538a-49c0-b583-7d58f7e9af34,backalley.hockey,available,14.99,,medium,low,10,name.com,,,
-12053da4-5dca-464c-b9a1-450f83a68662,Points.hockey,available,14.99,,medium,low,6,name.com,,,
+12053da4-5dca-464c-b9a1-450f83a68662,points.hockey,available,14.99,,medium,low,6,name.com,,,
 905260a0-e661-45a8-8409-be81e1870893,bashful.hockey,available,14.99,77.99,low,low,7,name.com,,,08/08/2026 22:01
 fcb7042e-40ed-410d-955c-401cd50a4947,apocrine.hockey,available,14.99,77.99,low,low,8,name.com,,,06/08/2026 01:05
 1580be0d-7c95-44d6-9d20-e619298de96a,original.hockey,available,14.99,,high,low,8,name.com,,,
@@ -517,7 +516,7 @@ cc530abc-1127-4f29-ae2d-9f57c39a6f3c,understandable.hockey,available,14.99,,high
 3741457d-8a7c-4e34-b579-64d55616e5bd,since.hockey,available,14.99,,high,low,5,name.com,,,
 175c40c4-4523-49a4-a43e-e54b0b8b2adb,already.hockey,available,14.99,,high,low,7,name.com,,,
 c2fda785-53e2-4d27-a7b1-be83d981f83a,deadofnight.hockey,available,14.99,,medium,low,13,name.com,,,
-22b19cfb-87cb-415e-b01f-73bdcef436ce,WordofAllah.hockey,available,14.99,,low,low,13,name.com,,,
+22b19cfb-87cb-415e-b01f-73bdcef436ce,wordofallah.hockey,available,14.99,,low,low,13,name.com,,,
 202c39b0-23e1-4491-9704-03d0e444f62a,quintuplet.hockey,available,14.99,77.99,low,low,10,name.com,,,
 776fda34-aa11-4f13-a0b9-e8f6a47b4f73,bread.hockey,available,59.99,59.99,medium,low,5,namesilo,,,08/09/2026 03:15
 65cfe606-7662-4e81-805f-582dd19bbb9e,documentation.hockey,available,14.99,,medium,low,13,name.com,,,
@@ -528,13 +527,13 @@ af525a76-92f8-451c-a036-cf62e470a4b6,chance.hockey,available,14.99,,high,low,6,n
 912d5877-1c02-4314-afdc-e3443aa3db7b,critique.hockey,available,14.99,,high,low,8,name.com,,,
 60b8affe-b006-430d-9a48-f0aae8031226,damascus.hockey,available,14.99,,medium,low,8,name.com,,,
 965afbff-2a71-4aaa-b81f-eae9256a0c2e,covert.hockey,available,14.99,77.99,medium,low,6,name.com,,,
-35f391ae-a1cf-4748-909d-f54f4cb00448,television.hockey,available,14.99,,high,low,10,name.com,,,
+35f391ae-a1cf-4748-909d-f54f4cb00448,television.hockey,available,59.99,59.99,medium,low,10,namesilo,,,20/09/2026 02:37
 d1d05a30-7b87-4bde-9067-dccf025ea0e5,pocket.hockey,available,14.99,,high,medium,6,name.com,,,
 a733ca14-3c89-49a1-84b1-5dc55848f5a4,beating.hockey,available,14.99,,high,low,7,name.com,,,
 4f76ac00-44cd-4d4a-a02d-0a6e3484c165,haveseenthisfilm.hockey,available,14.99,,medium,low,19,name.com,,,
 232c7bd3-ae51-436c-9681-0cd0aa10b46d,overseas.hockey,available,14.99,77.99,medium,low,8,name.com,,,
 52787cbc-3e1f-4a6f-b2f4-6eaa735b7d5f,jacobs.hockey,available,14.99,,high,low,6,name.com,,,
-45621def-60f7-4483-b26f-3697b6e78424,AustraliaDay.hockey,available,14.99,,high,low,13,name.com,,,
+45621def-60f7-4483-b26f-3697b6e78424,australiaday.hockey,available,14.99,,high,low,13,name.com,,,
 e83abf8c-8397-408f-b0c4-c8b489e48c1f,advice.hockey,available,14.99,,high,low,6,name.com,,,
 9653e8bc-5504-41f1-8672-7c89fac606d8,shoulderblade.hockey,available,14.99,,medium,low,14,name.com,,,
 c88e2ead-7f3a-41ad-b45c-0c8c854223bc,superb.hockey,available,14.99,,high,low,6,name.com,,,
@@ -548,7 +547,7 @@ ba7a67e7-0b72-410b-b8cc-bafdd7777faf,amusing.hockey,available,14.99,77.99,low,lo
 9dff9f4e-ad49-48db-ab21-719c77499385,embrace.hockey,available,14.99,,high,low,7,name.com,,,
 69891420-6e39-45f6-8aa5-fb63ca741ef2,coordinate.hockey,available,59.99,59.99,medium,low,10,namesilo,,,08/09/2026 03:35
 dc4afd26-c4d3-4ab5-9021-a21a7684768e,hindend.hockey,available,14.99,77.99,low,low,8,name.com,,,09/08/2026 11:03
-0f4f957c-e724-44be-91a3-7be78b4b7d9a,client.hockey,available,59.99,59.99,medium,low,6,namesilo,,,13/09/2026 03:27
+0f4f957c-e724-44be-91a3-7be78b4b7d9a,client.hockey,available,59.99,59.99,low,low,6,namesilo,,,19/09/2026 04:09
 e1df631d-6786-4e3d-9396-f7ba7e73eb42,huge.hockey,available,14.99,,high,low,4,name.com,,,
 1b45b703-4511-414e-a57e-bd53481a5be5,singapore.hockey,available,,,high,low,9,,,,
 b017c161-1799-4aa0-8dee-1fed3df0a849,edge.hockey,available,14.99,,high,medium,4,name.com,,,
@@ -575,7 +574,7 @@ bfff0423-d487-4cb7-8d09-3574790974ad,whatittakes.hockey,available,14.99,,low,low
 ad099d3b-3145-497f-ba34-9f131c6884db,flooded.hockey,available,14.99,77.99,low,low,7,name.com,,,08/08/2026 00:23
 0a42534e-5fa9-406a-a67c-e06dc2cce199,orangenotice.hockey,available,14.99,,medium,low,13,name.com,,,
 6f50d7e4-15f5-4513-a9c1-197049f1d2a7,bakinghot.hockey,available,14.99,77.99,low,low,10,name.com,,,08/08/2026 08:52
-5797dfe2-c9aa-4b14-b011-f9970e6a1775,QueenElizabeth.hockey,available,14.99,,high,low,15,name.com,,,
+5797dfe2-c9aa-4b14-b011-f9970e6a1775,queenelizabeth.hockey,available,14.99,,high,low,15,name.com,,,
 a1bffe6c-9176-40d2-9ffd-11c0d4ee0ae3,nineteenth.hockey,available,14.99,77.99,low,low,10,name.com,,,
 85582045-ceb4-44ce-ae85-4ad7a11856e1,instead.hockey,available,14.99,,high,low,7,name.com,,,
 52ce1672-0535-4010-ad8a-b1546715655d,feels.hockey,available,14.99,,high,low,5,name.com,,,
@@ -609,7 +608,7 @@ d503a565-0da0-4e9c-ada7-322d1351a994,backstage.hockey,available,14.99,77.99,medi
 c1eb0ab2-dd82-459d-833e-86b4c7c7ec53,alcoholabuse.hockey,available,14.99,,medium,low,13,name.com,,,
 b861876c-9e48-49c5-9786-39efcf070818,antipodean.hockey,available,14.99,77.99,low,low,10,name.com,,,
 e9da41c7-0b87-45cd-a3c5-ddfae2a27313,midday.hockey,available,14.99,,high,low,6,name.com,,,
-02fe7292-ee2f-4778-8bde-2ca53eb8f5e5,Harold.hockey,available,14.99,,high,low,6,name.com,,,
+02fe7292-ee2f-4778-8bde-2ca53eb8f5e5,harold.hockey,available,14.99,,high,low,6,name.com,,,
 8b7a6f76-9632-4ee9-82c6-eccab619ed55,financialcrisis.hockey,available,14.99,,medium,low,16,name.com,,,
 e8e38d51-f84e-4581-8926-8d593435456c,maze.hockey,available,14.99,,medium,low,4,name.com,,,
 915aa5ab-38f1-4702-a468-45d1b6cd3be3,provider.hockey,available,14.99,,high,low,8,name.com,,,
@@ -642,10 +641,10 @@ b373bb35-766e-42c1-8160-5561a7a9a052,consult.hockey,available,14.99,,high,low,7,
 7529a96a-e6a7-4c8d-ba46-e3d3f8fd8676,keeping.hockey,available,14.99,,high,low,7,name.com,,,
 a98799c9-c548-48ce-b7ef-c18ce7895003,concern.hockey,available,14.99,,high,low,7,name.com,,,
 ea981bfb-ef3d-43a4-ad4c-15b5acf98155,grinning.hockey,available,14.99,,high,low,8,name.com,,,
-15533935-3da1-4ae0-93ce-768c4b5ced3d,Susan.hockey,available,14.99,,high,low,5,name.com,,,
+15533935-3da1-4ae0-93ce-768c4b5ced3d,susan.hockey,available,14.99,,high,low,5,name.com,,,
 1c812293-a066-46e9-950f-9076eea4212e,angelic.hockey,available,14.99,,high,low,7,name.com,,,
 912462cc-ceb0-40fb-a8e4-cd3909052c58,tasks.hockey,available,14.99,,medium,low,5,name.com,,,
-157439ce-f38c-4670-abb6-1b27d9869946,education.hockey,available,14.99,,high,low,9,name.com,,,
+157439ce-f38c-4670-abb6-1b27d9869946,education.hockey,available,59.99,59.99,medium,low,9,namesilo,,,19/09/2026 06:14
 b7c1c312-c3ba-4117-a2ee-740b090f7024,thousandth.hockey,available,14.99,77.99,low,low,10,name.com,,,
 fc03c818-31e5-4af8-9338-59d7768242dd,surfaces.hockey,available,14.99,,low,low,8,name.com,,,
 08e343c9-bf16-4bac-a09b-a4a4a871028c,sportsbar.hockey,available,14.99,,high,low,10,name.com,,,
@@ -695,12 +694,12 @@ c0db3e5e-d13c-4613-8a8c-a660a7f103e4,fleshly.hockey,available,14.99,77.99,low,lo
 34592e14-ce16-4205-ad25-ce97d1c8a15f,redmeat.hockey,available,14.99,,low,low,8,name.com,,,
 1c25bfba-b472-41b6-ac3b-6188b6ea7b0a,autogamous.hockey,available,14.99,77.99,low,low,10,name.com,,,07/08/2026 20:05
 772ef777-5c19-4d7d-847d-d9ca78925995,playacting.hockey,available,14.99,77.99,low,low,10,name.com,,,
-78251290-8cea-4f3b-b589-814fdd2bc0d2,Panes.hockey,available,14.99,,medium,low,5,name.com,,,
+78251290-8cea-4f3b-b589-814fdd2bc0d2,panes.hockey,available,14.99,,medium,low,5,name.com,,,
 d91ca6e4-0ffd-4126-82b8-39334052011e,communal.hockey,available,14.99,,medium,low,8,name.com,,,
 e49cd9c0-0393-4996-8d25-ac36914c432d,spirit.hockey,available,14.99,,high,low,6,name.com,,,
 8dd3daf6-8b48-4c89-8b0d-7f0348dffdf1,halt.hockey,available,14.99,77.99,medium,low,4,name.com,,,
 cd83ed01-5f94-4f5d-875c-c179e45652e7,silverprint.hockey,available,14.99,,low,low,12,name.com,,,
-a049b1a3-5dc6-449c-ae48-18ae5ed09f49,Zulutime.hockey,available,14.99,,low,low,9,name.com,,,
+a049b1a3-5dc6-449c-ae48-18ae5ed09f49,zulutime.hockey,available,14.99,,low,low,9,name.com,,,
 efeb4524-704e-4b7f-af49-52e0dc1cf825,freshaspaint.hockey,available,14.99,,medium,low,14,name.com,,,
 15c4e7c9-07a9-4604-85ae-f6ec50684047,darken.hockey,available,14.99,,high,low,6,name.com,,,
 69c29fa0-88e2-4573-89a4-ea76380e5fb1,section.hockey,available,59.99,59.99,medium,low,7,namesilo,,,08/09/2026 06:07
@@ -710,7 +709,7 @@ efeb4524-704e-4b7f-af49-52e0dc1cf825,freshaspaint.hockey,available,14.99,,medium
 63111f10-bf86-4e30-8a8a-8a0025d17097,alpine.hockey,available,,,high,low,6,,,,
 5b0c49f0-f2f6-463b-b2a3-8ff4b97efa15,wear.hockey,available,14.99,,high,low,4,name.com,,,
 e9643070-3010-4958-b8a0-79797c097d2e,describe.hockey,available,14.99,,high,low,8,name.com,,,
-84089002-4b2f-49ec-8f57-3640e2f6be93,technology.hockey,available,59.99,59.99,medium,low,10,namesilo,,,08/09/2026 02:51
+84089002-4b2f-49ec-8f57-3640e2f6be93,technology.hockey,available,62.98,72.98,medium,low,10,namecheap,,,19/09/2026 02:35
 cd9b368f-7a9b-4146-a5fe-8bae28ddf487,actress.hockey,available,14.99,,high,low,7,name.com,,,
 dc5ffdbc-99d4-4fd0-8db9-62cbe9e78e75,vindicated.hockey,available,59.99,59.99,low,low,10,namesilo,,,08/09/2026 05:23
 91347865-3a60-49c6-9eea-c08029dfe1b2,hunger.hockey,available,14.99,,high,low,6,name.com,,,
@@ -724,7 +723,7 @@ c034425e-d1a1-423b-af49-d0b32601e2c4,vary.hockey,available,14.99,,high,low,4,nam
 139f86d3-1076-41de-9ae5-b90984a76845,senescent.hockey,available,14.99,77.99,low,low,9,name.com,,,
 9e99b9d3-103f-4a65-9209-3c0eab7df795,pitfall.hockey,available,14.99,,medium,low,7,name.com,,,
 04c64f92-98a5-423a-996a-dbcbe5b162b2,jewbaiter.hockey,available,14.99,77.99,low,low,10,name.com,,,
-93ee9332-ce55-40a6-b4cf-f6e2592fbff2,BBC.hockey,available,,,high,low,3,,,,
+93ee9332-ce55-40a6-b4cf-f6e2592fbff2,bbc.hockey,available,,,high,low,3,,,,
 139ecc99-8a63-47e9-87f4-f208fe056baa,concertroom.hockey,available,14.99,,medium,low,12,name.com,,,
 102a5b1a-4f00-4e04-ab53-9e89ef5a9004,soundout.hockey,available,14.99,,low,low,9,name.com,,,
 218d6f76-45ea-444d-8c8e-838b3655d35f,trio.hockey,available,14.99,77.99,high,low,4,name.com,,,
@@ -753,9 +752,9 @@ e22fcbdc-63e8-4b46-a4f9-1f405dc09175,starter.hockey,available,14.99,,high,low,7,
 c68cb633-3174-417f-93aa-ddb62812be7e,howtheturntables.hockey,available,14.99,,medium,low,18,name.com,,,
 6cc01ead-08e3-493e-8457-c035b15975e4,continuously.hockey,available,14.99,,medium,low,12,name.com,,,
 47789142-666e-4978-a133-bed86ca7e9d9,tell.hockey,available,14.99,,high,low,4,name.com,,,
-098a751d-4368-497f-ac34-fc0d77b6fc44,produced.hockey,available,59.99,59.99,low,low,8,namesilo,,,13/09/2026 04:02
-5d60547a-e0b9-41fb-9093-271334ea6038,Germanpizza.hockey,available,14.99,,high,low,12,name.com,,,
-296f91f8-103f-4958-aba5-6de6ba043dcb,Latinalphabet.hockey,available,14.99,,high,low,14,name.com,,,
+098a751d-4368-497f-ac34-fc0d77b6fc44,produced.hockey,available,59.99,59.99,low,low,8,namesilo,,,19/09/2026 16:32
+5d60547a-e0b9-41fb-9093-271334ea6038,germanpizza.hockey,available,14.99,,high,low,12,name.com,,,
+296f91f8-103f-4958-aba5-6de6ba043dcb,latinalphabet.hockey,available,14.99,,high,low,14,name.com,,,
 390fa66c-9393-4799-8aad-de74afa11d9b,eremitical.hockey,available,14.99,77.99,low,low,10,name.com,,,
 6f25a0ec-6ebb-4ba7-9e27-40b65712a669,irritated.hockey,available,14.99,77.99,low,low,9,name.com,,,
 2bab882d-8bd2-4a1d-8938-b45427673687,bantam.hockey,available,14.99,77.99,low,low,6,name.com,,,08/08/2026 14:01
@@ -764,12 +763,12 @@ c68cb633-3174-417f-93aa-ddb62812be7e,howtheturntables.hockey,available,14.99,,me
 8e4349be-5f74-456a-b395-51103150f0df,ratter.hockey,available,14.99,77.99,low,low,6,name.com,,,06/08/2026 04:00
 6e04fdc5-bf62-44b8-a692-cd04af0b24f6,interviewee.hockey,available,14.99,,medium,low,11,name.com,,,
 14630270-54b3-4297-98e4-f98d636796df,saint.hockey,available,14.99,,high,low,5,name.com,,,
-145bbe1b-4fa4-48f0-b2a9-dae5d79352ce,commercial.hockey,available,14.99,,high,low,10,name.com,,,
+145bbe1b-4fa4-48f0-b2a9-dae5d79352ce,commercial.hockey,available,62.98,72.98,medium,low,10,namecheap,,,19/09/2026 10:28
 044eea56-a625-4158-afb4-a233f7c86aec,birthday.hockey,available,14.99,,high,low,8,name.com,,,
 80483950-d10c-4bb3-b64f-1a438faf8173,fourth.hockey,available,14.99,77.99,low,low,6,name.com,,,
 84170bb0-6301-498d-8567-ec3b4f2e0a9e,disappointed.hockey,available,14.99,,medium,low,12,name.com,,,
 f78c09a9-18b6-494b-8949-6afd7fb81e38,forgiving.hockey,available,14.99,77.99,high,low,9,name.com,,,
-a4808062-e1be-46ed-b616-faab7477f60a,eBay.hockey,available,,,high,low,4,,,,
+a4808062-e1be-46ed-b616-faab7477f60a,ebay.hockey,available,,,high,low,4,,,,
 001d89ae-465f-4948-af3c-1e4e28b96fd6,barbeque.hockey,available,14.99,,high,low,8,name.com,,,
 13310416-3a67-4cf1-858b-c61991f165d7,seriously.hockey,available,14.99,,medium,low,9,name.com,,,
 82ef285e-84bc-4669-928a-ca834d51eb12,aeonian.hockey,available,14.99,77.99,low,low,7,name.com,,,
@@ -804,10 +803,10 @@ f55f02ac-2f00-48d5-9d09-a9534d13d2b0,ascendable.hockey,available,14.99,77.99,low
 ef93d137-2537-43b2-837c-7ed767b238c2,tentbed.hockey,available,14.99,,high,low,8,name.com,,,
 ba9fe9be-275b-4047-9b91-9e7802b4c55b,tin.hockey,available,14.99,,medium,low,3,name.com,,,
 a050dc32-6fb6-4a89-be43-9ea6ec05e3f4,alleged.hockey,available,14.99,77.99,high,low,7,name.com,,,
-45d8004c-4e0d-4192-826d-db0d6e1f392e,WestBranch.hockey,available,14.99,,low,low,11,name.com,,,
+45d8004c-4e0d-4192-826d-db0d6e1f392e,westbranch.hockey,available,14.99,,low,low,11,name.com,,,
 65c6f60e-a529-46fc-be02-c5733605b2e7,oversight.hockey,available,14.99,,high,low,9,name.com,,,
 57b9218a-1fa5-48de-92a0-fde1866bf1b9,billion.hockey,available,14.99,,high,low,7,name.com,,,
-69b95207-8444-481e-95ce-3a3d134fc1f7,Fran.hockey,available,14.99,,medium,low,4,name.com,,,
+69b95207-8444-481e-95ce-3a3d134fc1f7,fran.hockey,available,14.99,,medium,low,4,name.com,,,
 56d7f8ee-9c85-4fc5-a569-c221fc07ce4b,cent.hockey,available,59.99,59.99,medium,low,4,namesilo,,,08/09/2026 08:07
 09ae5158-d8c4-4d78-b267-657e8a49d732,price.hockey,available,14.99,,medium,low,5,name.com,,,
 b5ec9ace-d7fe-4759-bf2a-100e6866edaf,wellbehaved.hockey,available,14.99,,low,low,12,name.com,,,
@@ -821,7 +820,7 @@ e12056b2-835b-4e9e-8325-00b8edbf9ba5,amaurotic.hockey,available,14.99,77.99,low,
 453a859f-9ad9-48cb-9726-cba717badd8c,laziness.hockey,available,14.99,,medium,low,8,name.com,,,
 9dedc1ee-1d78-43cb-b734-1bc604f07ebe,unquestionably.hockey,available,14.99,,medium,low,14,name.com,,,
 886e2ef9-bee3-4ec9-a9fd-19d710a5f4f2,harm.hockey,available,14.99,77.99,medium,low,4,name.com,,,08/09/2026 07:44
-7db18378-c323-47b2-a76f-2552389ed761,Volvo.hockey,available,14.99,,high,low,5,name.com,,,
+7db18378-c323-47b2-a76f-2552389ed761,volvo.hockey,available,14.99,,high,low,5,name.com,,,
 16ad8718-c7dd-4ab1-85d5-c857c7e5c603,facetious.hockey,available,14.99,77.99,low,low,9,name.com,,,08/08/2026 14:39
 05096c06-2925-4358-9c5f-3d9e7962a58c,accursed.hockey,available,14.99,77.99,low,low,8,name.com,,,
 e33c37f9-e264-4724-981d-83488688976d,givesomeoneabreak.hockey,available,14.99,,high,low,20,name.com,,,
@@ -851,7 +850,7 @@ d54e02cc-22a4-41b2-a865-6d1133345c5d,cassette.hockey,available,14.99,,medium,low
 e7235890-58ba-4e3b-8bff-162c940cac94,diversify.hockey,available,14.99,,high,low,9,name.com,,,
 607f8dd6-2ae2-4c6b-92a5-ab4d6f4a7f27,xcii.hockey,available,14.99,77.99,low,low,4,name.com,,,
 a416045d-d0a3-482d-b5ca-18eb92e611cc,tile.hockey,available,14.99,,high,low,4,name.com,,,
-c82183ed-f18d-4181-9698-d76de726824a,object.hockey,available,59.99,59.99,medium,low,6,namesilo,,,15/09/2026 04:57
+c82183ed-f18d-4181-9698-d76de726824a,object.hockey,available,59.99,59.99,medium,low,6,namesilo,,,19/09/2026 05:21
 dc115d8e-1fd6-4bd9-a847-117b65e39406,happyhour.hockey,available,14.99,,high,low,10,name.com,,,
 248c85ee-45be-497a-8592-19e428329612,atop.hockey,available,14.99,,medium,low,4,name.com,,,
 f54acaa1-7a9b-4661-a0a2-94a6e72194a4,godking.hockey,available,14.99,,high,low,8,name.com,,,
@@ -863,14 +862,14 @@ fcbcca47-4e67-45d5-9426-10922f7aaa9d,magiccube.hockey,available,14.99,,medium,lo
 8d735c7a-2df3-468a-820a-8600469754cb,aerial.hockey,available,14.99,77.99,medium,low,6,name.com,,,
 713db6fa-0820-4608-b998-fa55ede20554,lettherebelight.hockey,available,14.99,,medium,low,18,name.com,,,
 f411e1f5-172f-4e83-a6c4-73ac75c956bf,rearend.hockey,available,14.99,77.99,low,low,8,name.com,,,09/08/2026 11:23
-444fdb26-4d9b-4c22-a2d5-e2c57d2df6ca,Czechoslovakia.hockey,available,14.99,,medium,low,14,name.com,,,
+444fdb26-4d9b-4c22-a2d5-e2c57d2df6ca,czechoslovakia.hockey,available,14.99,,medium,low,14,name.com,,,
 922e461a-7f5b-48a6-924d-89d2eef31183,pandora.hockey,available,14.99,,high,low,7,name.com,,,
 43b615dc-ccd8-4702-ab8f-ed32b2ddbe20,beauteous.hockey,available,14.99,77.99,low,low,9,name.com,,,09/08/2026 05:58
 dcfec532-961d-41c9-90de-882f1cfe428d,beaked.hockey,available,14.99,77.99,low,low,6,name.com,,,09/08/2026 03:50
 694561eb-6a49-4196-a59b-4512d054df21,generalformula.hockey,available,14.99,,high,low,15,name.com,,,
 673f949f-8112-4ed6-aa38-6718265b8d76,amitotic.hockey,available,14.99,77.99,low,low,8,name.com,,,
 99699966-d7e7-46fc-9dae-df78ebfc34bc,styptic.hockey,available,14.99,77.99,low,low,7,name.com,,,07/08/2026 10:00
-b97b2853-74dd-4288-8253-fe5c35965bf8,options.hockey,available,59.99,59.99,low,low,7,namesilo,,,08/09/2026 07:10
+b97b2853-74dd-4288-8253-fe5c35965bf8,options.hockey,available,59.99,59.99,low,low,7,namesilo,,,19/09/2026 14:29
 23c188c3-4f8b-45e8-950f-489c87388e40,parent.hockey,available,14.99,,high,low,6,name.com,,,
 629c4c42-99b8-4aa2-82b8-c6cf49ef8b03,bonus.hockey,available,14.99,,high,low,5,name.com,,,
 50c7d9d6-5b0a-4289-94cb-6dbb0a152820,laudable.hockey,available,14.99,77.99,low,low,8,name.com,,,06/08/2026 07:01
@@ -884,15 +883,15 @@ a3297171-cded-400a-90c4-1560078a9c1f,grocery.hockey,available,59.99,59.99,medium
 23b4c8ef-e8b1-4523-93e7-bd96fc060dd8,bristled.hockey,available,14.99,77.99,low,low,8,name.com,,,08/08/2026 17:13
 03815f3c-8d9f-4ef1-82d3-84f25ac6c61b,hellothere.hockey,available,14.99,,high,low,11,name.com,,,
 ac2bb789-6fcf-45ac-8efc-102866cd490e,into.hockey,available,14.99,,medium,low,4,name.com,,,
-dec7adf8-55c2-41d8-98ec-f706baf0dac4,Frenchmustard.hockey,available,14.99,,high,low,14,name.com,,,
+dec7adf8-55c2-41d8-98ec-f706baf0dac4,frenchmustard.hockey,available,14.99,,high,low,14,name.com,,,
 be72f615-dea8-4a4d-b420-d494aab85df2,manual.hockey,available,14.99,,medium,low,6,name.com,,,
 fc069d62-09f9-4cf0-9e6c-8fa54541af68,soft.hockey,available,14.99,77.99,high,low,4,name.com,,,
 f1eb5d0b-4952-44fc-a119-e80c9ffb5c9f,readfor.hockey,available,14.99,,low,low,8,name.com,,,
 4ee9c8a3-fd95-412a-b153-ad62416040cb,exercisebike.hockey,available,14.99,,high,low,13,name.com,,,
 e04751f1-e311-495c-aaea-998b9b9c2310,bouncing.hockey,available,14.99,,high,low,8,name.com,,,
 6fcc95ea-c433-4c7a-a9e4-8f554bda30ea,hockeyplayer.hockey,available,14.99,,high,low,13,name.com,,,
-e591d908-fd37-4e31-8a31-ae0060017e80,cafe.hockey,available,14.99,,high,low,4,name.com,,,
-eaa73be1-a198-48a6-84bc-dad41e48affc,art.hockey,available,14.99,,high,medium,3,name.com,,,
+e591d908-fd37-4e31-8a31-ae0060017e80,cafe.hockey,available,62.98,72.98,medium,low,4,namecheap,,,19/09/2026 13:35
+eaa73be1-a198-48a6-84bc-dad41e48affc,art.hockey,available,59.99,59.99,medium,low,3,namesilo,,,19/09/2026 05:34
 f85fa1b0-199b-4971-8301-7eb21f240e6e,largely.hockey,available,14.99,,medium,low,7,name.com,,,
 9eb0f36d-af9c-4774-bdb3-1b564d4aa149,fuck.hockey,available,,,high,medium,4,,,,
 43b832b7-7ae3-4750-ba21-0fabbe03dc1f,demonstration.hockey,available,14.99,,high,low,13,name.com,,,
@@ -921,8 +920,8 @@ e034e9e6-fd86-4cce-ac66-7b9f24d339e4,manageable.hockey,available,14.99,77.99,hig
 4a749773-e067-4b27-820b-96265de6988d,psychology.hockey,available,14.99,,high,low,10,name.com,,,
 d35aa3dc-325c-412a-b0ca-dcfdcaaf26f5,asopposedto.hockey,available,14.99,,medium,low,13,name.com,,,
 5756a751-bb34-4249-bd77-1bd36037be14,asyouknow.hockey,available,14.99,,medium,low,11,name.com,,,
-bbe7c92f-a5d3-4350-b1ce-437fce33566d,food.hockey,available,14.99,,high,medium,4,name.com,,,
-2a3bae36-673d-481c-8d60-01d2e302598f,backup.hockey,available,14.99,,high,low,6,name.com,,,
+bbe7c92f-a5d3-4350-b1ce-437fce33566d,food.hockey,available,59.99,59.99,medium,low,4,namesilo,,,19/09/2026 10:31
+2a3bae36-673d-481c-8d60-01d2e302598f,backup.hockey,available,59.99,59.99,medium,low,6,namesilo,,,20/09/2026 03:14
 30c07bb3-8c25-4bae-9375-36af53898bcf,airtight.hockey,available,14.99,77.99,low,low,8,name.com,,,
 c18b82b2-719c-4330-a6fe-3f4eab915e00,diskspace.hockey,available,14.99,,high,low,10,name.com,,,
 4082666b-2ab3-45a8-af2f-6ef29830613d,nutritive.hockey,available,59.99,59.99,medium,low,9,namesilo,,,08/09/2026 09:04
@@ -940,10 +939,10 @@ eb2967af-adca-4109-98d0-6038ce4000d2,anaplastic.hockey,available,14.99,77.99,low
 87ddae4c-0a6b-4c03-8649-90906501c4f1,quickwitted.hockey,available,14.99,,medium,low,12,name.com,,,
 615ee8c5-690c-4c1d-9f83-fdf7d8dfed7d,goup.hockey,available,59.99,59.99,medium,low,5,namesilo,,,03/09/2026 14:22
 f00a025e-f632-4932-a175-97073c2b46b2,sterile.hockey,available,14.99,,medium,low,7,name.com,,,
-fc68883b-d36c-47f2-bf33-4020de694947,turmeric.hockey,available,59.99,59.99,medium,low,8,namesilo,,,12/09/2026 11:21
+fc68883b-d36c-47f2-bf33-4020de694947,turmeric.hockey,available,62.98,72.98,medium,low,8,namecheap,,,19/09/2026 15:28
 25251e90-45c1-4414-bcf2-5ddd1d79ae3a,room.hockey,available,59.99,59.99,medium,low,4,namesilo,,,08/09/2026 08:37
 e27636be-8a18-40af-94cf-d6c041ce3d44,mass.hockey,available,14.99,77.99,high,low,4,name.com,,,
-c3d0de09-f6c2-4f66-bb12-de3daa9f7698,WestEnd.hockey,available,14.99,,medium,low,8,name.com,,,
+c3d0de09-f6c2-4f66-bb12-de3daa9f7698,westend.hockey,available,14.99,,medium,low,8,name.com,,,
 07fad9c5-b4a9-4e3b-b300-3e267e997921,atbest.hockey,available,14.99,,medium,low,7,name.com,,,
 33fc1e1a-1bb2-4c0b-9c71-3b3318f70415,plentiful.hockey,available,14.99,,high,low,9,name.com,,,
 d1cde1ef-298e-4606-8ab3-b82ddab3825d,recondite.hockey,available,14.99,77.99,low,low,9,name.com,,,
@@ -952,7 +951,7 @@ d1cde1ef-298e-4606-8ab3-b82ddab3825d,recondite.hockey,available,14.99,77.99,low,
 d698ae92-782f-484d-86ff-7e9943860e9e,naturalperson.hockey,available,14.99,,low,low,14,name.com,,,
 72ce9220-5b5c-4b00-b630-41492abfb3eb,stayloose.hockey,available,14.99,,low,low,10,name.com,,,
 5228bcc3-283f-4cbc-be54-365bb0c2f629,managing.hockey,available,14.99,,high,low,8,name.com,,,
-8aa311e3-e5ac-4395-8165-b891f521c431,transportation.hockey,available,59.99,59.99,medium,low,14,namesilo,,,13/09/2026 03:39
+8aa311e3-e5ac-4395-8165-b891f521c431,transportation.hockey,available,59.99,59.99,low,low,14,namesilo,,,19/09/2026 03:16
 0f375e6e-3885-4c6a-8a2c-1a87639b1d99,affixed.hockey,available,14.99,77.99,low,low,7,name.com,,,
 4d670ac1-253d-4fda-935f-8ac4c2653f2f,apical.hockey,available,14.99,77.99,low,low,6,name.com,,,05/08/2026 23:58
 01d1dd72-c12b-437e-9f08-ba59331eb283,ampullar.hockey,available,14.99,77.99,low,low,8,name.com,,,
@@ -999,3 +998,4 @@ efdf02eb-6813-48d2-bc6c-b4af752bf416,wheezy.hockey,available,14.99,77.99,low,low
 53a3b44e-8ca7-4099-ad73-8027087c10e1,intheend.hockey,available,14.99,,medium,low,10,name.com,,,
 a556931b-c91e-4c76-8c13-c3c439e97a1d,selfish.hockey,available,14.99,,medium,low,7,name.com,,,
 aa6996d2-19e6-4437-b740-ec204c21f521,apropos.hockey,available,14.99,77.99,medium,low,7,name.com,,,06/08/2026 10:00
+679fae89-ac96-43ad-9f3b-7df0a7d24277,concluded.hockey,available,14.99,77.99,low,low,9,name.com,,,
