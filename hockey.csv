@@ -5,6 +5,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 50eb6fc4-ad43-4953-8ff1-cf328fa5c22c,relish.hockey,available,59.99,59.99,high,low,6,namesilo,,,29/09/2026 21:47
 b8d0ab84-da5e-4d98-a031-1f77f8f306c5,lateral.hockey,available,14.99,77.99,high,low,7,name.com,,,22/08/2026 20:34
 d8d3de86-cdc6-4edf-a824-89b86716d2f3,accessed.hockey,available,47.81,47.81,medium,low,8,spaceship,,,29/09/2026 16:22
+cf72fdd8-6d55-4c9e-a171-bbc2f2b67d12,jsc.hockey,available,61,,high,low,3,unstoppable,,,02/10/2026 07:48
 e2627ecb-9a5f-4b48-b085-5a9482aca8f2,asleep.hockey,available,59.99,59.99,high,low,6,namesilo,,,22/09/2026 09:45
 a1bb23a4-beb5-43d1-b08a-2a9bd2087ca7,emperor.hockey,available,47.81,47.81,high,low,7,spaceship,,,28/09/2026 01:49
 520e7dcd-2e55-4c09-a44e-ba1f0ac3f56c,archetypal.hockey,available,14.99,77.99,medium,low,10,name.com,,,06/08/2026 15:32
@@ -13,6 +14,7 @@ ca7ed48b-271c-4548-962d-76fb1bede8dd,depository.hockey,available,62.98,72.98,hig
 07d112d1-8d21-4bc4-8d03-57075eae9cf2,alive.hockey,available,59.99,59.99,high,low,5,namesilo,,,22/09/2026 05:04
 d773f849-703e-4267-a6ac-b2e834e577cb,aplite.hockey,available,59.99,59.99,medium,low,6,namesilo,,,19/09/2026 17:42
 20dff69f-3356-409f-845a-0f9c6fff9332,betsy.hockey,available,59.99,59.99,medium,low,5,namesilo,,,27/09/2026 07:40
+27590ebe-aa26-4e0d-a65b-b298858f3b57,xhosa.hockey,available,47.81,47.81,high,low,5,spaceship,,,03/10/2026 02:22
 b9712d9d-1940-4e3d-8d07-1b99b1aa7a93,tolstoy.hockey,available,47.81,47.81,medium,low,7,spaceship,,,01/10/2026 01:34
 2d6fd7bd-64dd-4bfd-99e8-010e03266b64,magician.hockey,available,62.98,72.98,high,low,8,namecheap,,,24/09/2026 17:20
 792e4eb7-d776-4dd2-9766-e07ab78eeb0a,aeolus.hockey,available,62.98,72.98,medium,low,6,namecheap,,,17/09/2026 12:36
@@ -22,8 +24,10 @@ b6e8b8fd-bd6f-4ebf-a838-942935abcd08,missing.hockey,available,59.99,59.99,high,l
 b237be8a-9f1f-4d60-995d-00a64d4c8afd,bering.hockey,available,59.99,59.99,high,low,6,namesilo,,,23/09/2026 04:03
 337ab39b-d030-4ef5-901c-44f53f04221c,dumbarton.hockey,available,8.24,47.89,medium,low,9,porkbun,,,29/09/2026 04:37
 3d1968d2-4b38-4072-8dd1-387721cd5da8,pickaback.hockey,available,59.99,59.99,high,low,9,namesilo,,,15/09/2026 19:48
-425df5aa-a392-4164-ae40-7aa8e9f7121f,vitamins.hockey,available,62.98,72.98,medium,low,8,namecheap,,,28/09/2026 08:13
+53d48c0e-97bd-42e2-b042-ca548379988c,gauze.hockey,available,46.2,46.2,high,low,5,cloudflare,,,02/10/2026 05:01
+425df5aa-a392-4164-ae40-7aa8e9f7121f,vitamins.hockey,available,59.99,59.99,high,low,8,namesilo,,,02/10/2026 11:55
 f3632214-8df3-491a-9920-5f7e51ecec7e,sur.hockey,available,59.99,59.99,high,low,3,namesilo,,,01/10/2026 03:57
+0f7f991c-d2ca-4633-9558-f4e3b8293ffe,bmp.hockey,available,8.24,49.44,high,low,3,dynadot,,,02/10/2026 18:50
 1650a49e-dc5d-45dd-af2e-617c169a9658,beethoven.hockey,available,62.98,72.98,high,low,9,namecheap,,,23/09/2026 01:53
 7a266a64-982c-4560-b15b-aaa5f2467498,sought.hockey,available,59.99,59.99,high,low,6,namesilo,,,10/09/2026 14:41
 86c383c0-9012-4dca-90ff-4adfe50fa43a,ser.hockey,available,101.99,101.99,high,low,3,godaddy,,,01/10/2026 00:20
@@ -50,6 +54,7 @@ aa0d132b-9fc7-4cf6-9dcb-453ede0cb944,organisations.hockey,available,59.99,59.99,
 5f7111b9-b936-4cf8-a6fb-333990cd032c,donee.hockey,available,14.99,77.99,medium,low,5,name.com,,,09/08/2026 14:26
 1ada324a-fdb9-4e6a-97f6-682baf1ecde9,nocent.hockey,available,62.98,72.98,medium,low,6,namecheap,,,03/09/2026 18:02
 94d2fbd2-ad72-4651-b0dd-064af56d5eda,isn.hockey,available,61,,high,low,3,unstoppable,,,30/09/2026 02:01
+864e2e2a-6514-4795-a2b0-3d115de84418,faustus.hockey,available,59.99,59.99,high,low,7,namesilo,,,02/10/2026 15:09
 936c4085-c937-4c1f-b245-c74a877cfd71,piffle.hockey,available,62.98,72.98,medium,low,6,namecheap,,,21/09/2026 21:41
 4d7dc33d-f8fe-4dbb-b396-eaebdc699fe6,antibiotic.hockey,available,59.99,59.99,high,low,10,namesilo,,,22/09/2026 06:14
 195037dd-1cd1-4335-9283-337a76b45170,repeating.hockey,available,62.98,72.98,high,low,9,namecheap,,,28/09/2026 06:41
@@ -85,11 +90,13 @@ a70dfb0c-9d3e-428e-b6e8-2d80c640f5e0,dawson.hockey,available,59.99,59.99,high,lo
 ac081f6e-1a0f-4e6a-8cf6-1d945e00ef75,afghan.hockey,available,14.99,77.99,high,low,6,name.com,,,
 a97e8937-0a3c-49b5-b3de-bc17d88e9dc6,dominican.hockey,available,14.99,77.99,high,low,9,name.com,,,14/08/2026 15:44
 5d7c5a60-33b7-4716-9066-2fa45c4cf09f,nescience.hockey,available,59.99,59.99,medium,low,9,namesilo,,,12/09/2026 14:26
+d8e7acb0-7996-44e8-aed7-18c430b82bf2,embankment.hockey,available,8.24,47.89,high,low,10,porkbun,,,03/10/2026 00:38
 9055568d-91ff-4e59-8d39-f9b0162822c9,auburn.hockey,available,59.99,59.99,high,low,6,namesilo,,,22/09/2026 12:02
 5133a5f1-e586-4f23-8660-dfb4c6002ef2,civilised.hockey,available,14.99,77.99,high,low,9,name.com,,,12/08/2026 09:08
 966a3b14-ba01-4a4c-9d04-a0909c0cd324,khaki.hockey,available,14.99,77.99,high,low,5,name.com,,,22/08/2026 15:47
 3245bc45-9725-4ad3-811f-642bfb391a62,ann.hockey,available,59.99,59.99,high,low,3,namesilo,,,01/10/2026 09:27
 0dbb073f-3db6-4582-a6d2-77df7c0a4deb,childhood.hockey,available,59.99,59.99,high,low,9,namesilo,,,29/09/2026 08:38
+92682093-ef4a-4f41-99e0-b6f3ebcd2a05,surabaya.hockey,available,47.81,47.81,high,low,8,spaceship,,,02/10/2026 20:06
 9da8b212-0f5c-49c2-89c4-ced99e9a6cfe,actinic.hockey,available,14.99,77.99,medium,low,7,name.com,,,
 e1ece5a5-a5cf-4143-b930-de404be1ace4,hunch.hockey,available,59.99,59.99,high,low,5,namesilo,,,30/09/2026 10:11
 388b699e-e269-4b79-8643-1fbcaaa3e526,crumpled.hockey,available,14.99,77.99,medium,low,8,name.com,,,13/08/2026 09:06
@@ -102,6 +109,7 @@ cb2c6bf0-877d-4e25-a076-1dc4260f9ef7,smoker.hockey,available,59.99,59.99,medium,
 ba5dcb0e-4ba3-434b-afa6-38768a6a96f4,doped.hockey,available,14.99,77.99,medium,low,5,name.com,,,14/08/2026 15:59
 71ec1927-1a66-4023-bd40-e23be15ca277,basketry.hockey,available,59.99,59.99,medium,low,8,namesilo,,,22/09/2026 11:28
 6091a611-cc5b-4024-ab42-5d362427f1e7,zapata.hockey,available,47.81,47.81,high,low,6,spaceship,,,29/09/2026 18:45
+80706427-32c0-4a1b-9b0d-5c6b44f7720b,clr.hockey,available,59.99,59.99,high,low,3,namesilo,,,02/10/2026 18:47
 02510ab7-e15c-4f5e-9a4a-479c0000c2aa,windsor.hockey,available,59.99,59.99,high,low,7,namesilo,,,29/09/2026 23:04
 8b906798-8563-4c14-a27f-78999504babb,heading.hockey,available,59.99,59.99,high,low,7,namesilo,,,25/09/2026 07:40
 7b42c5c4-1a43-45b2-a7cb-977f82996728,birdwatch.hockey,available,62.98,72.98,high,low,9,namecheap,,,23/09/2026 19:35
@@ -112,10 +120,12 @@ ddebb96e-a58d-44d9-a1e1-f866185e8afd,barrels.hockey,available,62.98,72.98,high,l
 0c8039cf-7a57-41d9-b351-b2368f825ce2,pbs.hockey,available,59.99,59.99,high,low,3,namesilo,,,25/09/2026 09:49
 be6bce33-c8b2-4521-8ce3-8fe27bf7d341,boringly.hockey,available,59.99,59.99,medium,low,8,namesilo,,,14/09/2026 01:08
 f3fad343-e77a-4cda-954d-fe987b7b498e,uptown.hockey,available,14.99,77.99,high,low,6,name.com,,,12/09/2026 23:28
+785c3a15-aa0b-429e-9cde-5f6934a6368f,vlsi.hockey,available,8.24,49.44,low,low,4,dynadot,,,02/10/2026 22:48
 505a3238-1036-4aba-837c-1c08e4f8169b,coplanar.hockey,available,14.99,77.99,medium,low,8,name.com,,,13/08/2026 00:32
 fd862465-8d65-4052-b8c2-4e225ecd7bc8,resinlike.hockey,available,59.99,59.99,medium,low,9,namesilo,,,09/09/2026 15:11
 b99e3f4a-a0d4-42cc-9504-be2f23376097,stubbornly.hockey,available,59.99,59.99,medium,low,10,namesilo,,,14/09/2026 10:12
 1cc91d6c-fcf7-4226-9c3b-1bad3b473980,damnable.hockey,available,14.99,77.99,medium,low,8,name.com,,,13/08/2026 16:29
+93c1ef20-c659-4a1e-a1fa-759f85d27d99,todos.hockey,available,8.24,47.89,medium,low,5,porkbun,,,02/10/2026 22:55
 5eb6a47e-55e0-49ef-88e9-2feec4f0a415,ascesis.hockey,available,62.98,72.98,medium,low,7,namecheap,,,20/09/2026 13:10
 0134377d-b2ae-4174-8d92-6b2c0fabb582,manhood.hockey,available,62.98,72.98,high,low,7,namecheap,,,29/09/2026 19:12
 0278b13d-1c28-4526-8b97-d393e3521d2c,keyes.hockey,available,47.81,47.81,medium,low,5,spaceship,,,28/09/2026 16:42
@@ -132,6 +142,7 @@ fa2b01cb-f1ee-4cd6-84f0-76eaff9d80de,csx.hockey,available,61,,high,low,3,unstopp
 1b11ac9f-b094-4837-9797-1327516b98d8,errand.hockey,available,101.99,101.99,high,low,6,godaddy,,,30/09/2026 01:33
 ce4482c4-1129-4389-af5c-9589af851611,heated.hockey,available,14.99,77.99,high,low,6,name.com,,,21/08/2026 02:17
 6e09d994-ff07-4109-ab0f-7579306a479d,uriah.hockey,available,62.98,72.98,medium,low,5,namecheap,,,01/10/2026 22:02
+b385232d-ea5c-4e52-a611-9ff0f5304c89,duplicated.hockey,available,46.2,46.2,medium,low,10,cloudflare,,,02/10/2026 13:59
 5bab4f87-8faf-4a4c-a2ad-5c85f5832753,robby.hockey,available,62.98,72.98,high,low,5,namecheap,,,01/10/2026 23:55
 5742b1cc-24b9-4f59-8535-d379eb99772e,sanjay.hockey,available,61,,high,low,6,unstoppable,,,01/10/2026 16:51
 dbb2d38a-fd67-4d6d-af8b-04b37644eb32,marbled.hockey,available,14.99,77.99,medium,low,7,name.com,,,24/08/2026 15:47
@@ -179,6 +190,7 @@ fa4202a6-9e07-436d-9379-864ca4a94808,protects.hockey,available,46.2,46.2,high,lo
 996f1753-d090-4707-99d4-ee1765dbda17,counterfeits.hockey,available,62.98,72.98,low,low,12,namecheap,,,19/09/2026 21:40
 53b89976-74d3-4678-9dd9-f54b522a9450,allayer.hockey,available,62.98,72.98,medium,low,7,namecheap,,,18/09/2026 09:59
 6858290c-84d2-4a0d-8249-f3a0b811a169,beckwith.hockey,available,61,,medium,low,8,unstoppable,,,30/09/2026 04:37
+18b206e6-d3c9-4b18-80bf-c5176d68c09c,embargo.hockey,available,62.98,72.98,high,low,7,namecheap,,,02/10/2026 04:43
 e0362380-2529-45bc-ab71-9df62cb1040a,squarish.hockey,available,59.99,59.99,medium,low,8,namesilo,,,10/09/2026 17:29
 e3cfa0ab-5594-4924-8b46-c4bfca9a1956,paleozoic.hockey,available,59.99,59.99,high,low,9,namesilo,,,04/09/2026 23:39
 cee67c51-a837-4c39-9edd-f44496d355f1,kin.hockey,available,14.99,77.99,high,low,3,name.com,,,22/08/2026 16:00
@@ -199,6 +211,7 @@ abf7fd6c-692e-4caf-9a0c-2f4bb890f5d7,neotropical.hockey,available,59.99,59.99,me
 f1758ad6-acaf-48a4-a43b-d59280383cb7,pact.hockey,available,59.99,59.99,high,low,4,namesilo,,,28/09/2026 06:32
 126528b5-9abc-45d4-bbd2-e4e216da7e0f,risque.hockey,available,14.99,77.99,medium,low,6,name.com,,,18/08/2026 20:02
 4644b926-d081-462e-8032-ecbbbaaf072e,sedentary.hockey,available,59.99,59.99,medium,low,9,namesilo,,,10/09/2026 01:36
+273ab084-1357-4a23-88ed-e785b8476186,busting.hockey,available,47.81,47.81,high,low,7,spaceship,,,03/10/2026 03:24
 6ac68183-19ba-4893-929f-18dbbbd0249e,sotho.hockey,available,59.99,59.99,medium,low,5,namesilo,,,10/09/2026 14:39
 8bf5a22c-7711-40cb-a7d5-bbeeb5c52857,archimedes.hockey,available,62.98,72.98,medium,low,10,namecheap,,,20/09/2026 02:08
 69134364-a4e1-470a-99b4-b886613ca70f,formosan.hockey,available,14.99,77.99,high,low,8,name.com,,,18/08/2026 12:16
@@ -228,6 +241,7 @@ d4f2561f-72ac-4f0b-a57d-81fd3faf4c68,dehydrate.hockey,available,14.99,77.99,medi
 b875fb14-cb8b-4feb-82e5-b2be45e411cc,harkness.hockey,available,8.24,47.89,medium,low,8,porkbun,,,30/09/2026 05:36
 2df65634-7d1c-459d-b484-71f9b08eb720,kieran.hockey,available,47.81,47.81,high,low,6,spaceship,,,01/10/2026 08:33
 5bbfc564-8291-4a8b-a196-36c2c194bc44,eca.hockey,available,8.24,47.89,high,low,3,porkbun,,,01/10/2026 23:40
+ec49b658-3075-4192-a380-5240222899ff,basing.hockey,available,8.24,47.89,high,low,6,porkbun,,,02/10/2026 22:25
 2f4c369e-3109-4b55-940a-4fd1944aeaa3,flows.hockey,available,59.99,59.99,medium,low,5,namesilo,,,28/09/2026 22:43
 e468d01f-7fe3-4809-8a74-1a04237b2e37,conditions.hockey,available,59.99,59.99,high,low,10,namesilo,,,28/09/2026 10:19
 894a72ff-6b26-44f8-a0d5-4d91a36ebc67,punctuate.hockey,available,62.98,72.98,high,low,9,namecheap,,,16/09/2026 21:54
@@ -250,6 +264,7 @@ a0c8b0c5-40c8-4aa1-a237-8e166e45e83b,schools.hockey,available,59.99,59.99,high,l
 ee768066-9b69-47d3-998d-068580dfbbb2,niece.hockey,available,59.99,59.99,high,low,5,namesilo,,,30/09/2026 05:40
 b0cdd623-193d-4fc2-8d22-6ee7cb9bff70,sabha.hockey,available,47.81,47.81,medium,low,5,spaceship,,,29/09/2026 21:35
 76a912e8-64e2-402a-9424-dd0218e2ba45,identical.hockey,available,59.99,59.99,high,low,9,namesilo,,,25/09/2026 07:23
+e8d84bcc-7a0c-4d5a-bd13-35c7e53bbc9a,emt.hockey,available,61,,high,low,3,unstoppable,,,02/10/2026 17:52
 b4108d3d-381a-494c-9b9c-3fbe2313e0dc,parkersburg.hockey,available,59.99,59.99,medium,low,11,namesilo,,,02/10/2026 00:08
 a0f2072a-0049-4be8-b3b4-54755ca48c9a,charles.hockey,available,46.2,46.2,high,medium,7,cloudflare,,,29/09/2026 07:30
 cf7247dc-e11c-4aad-ac75-27def648cee0,honeymooning.hockey,available,14.99,77.99,high,low,12,name.com,,,21/09/2026 06:04
@@ -266,9 +281,8 @@ a71c53b8-73d6-454b-9f85-56655e5e7f2f,lowborn.hockey,available,14.99,77.99,medium
 ad1b8d87-6aa9-4e0b-a0dc-fd68c754e803,statesman.hockey,available,8.24,47.89,high,low,9,porkbun,,,30/09/2026 18:08
 d034e66a-1e34-4c99-9ac5-1ed1ffaad433,tabby.hockey,available,59.99,59.99,high,low,5,namesilo,,,23/09/2026 09:31
 6dcba664-a410-40e8-8d48-7f6cde5b97d6,cyber.hockey,resell,,,high,medium,5,,,,27/09/2026 06:18
-b2dfcb32-b99a-47dc-bb59-b88d99442263,intellect.hockey,available,47.81,47.81,high,low,9,spaceship,,,28/09/2026 07:56
+b2dfcb32-b99a-47dc-bb59-b88d99442263,intellect.hockey,available,8.24,47.89,high,low,9,porkbun,,,02/10/2026 11:18
 07e34c8e-17d3-45ee-82f3-d8536d10a082,dozens.hockey,available,59.99,59.99,high,low,6,namesilo,,,14/09/2026 23:20
-2a81bb0d-8714-4749-9c3a-b69b016c3409,rules.hockey,available,14.99,,high,low,5,name.com,,,
 fb4d671b-aaa5-418b-bc73-94ecd526e979,alright.hockey,available,59.99,59.99,high,low,7,namesilo,,,22/09/2026 01:15
 0ef5ff2c-a530-4cb0-b6f1-9d40355e4500,dickhead.hockey,available,14.99,77.99,medium,low,8,name.com,,,08/08/2026 23:34
 8243528e-e44c-44b4-ba42-34fad5e5abf8,edental.hockey,available,59.99,59.99,medium,low,7,namesilo,,,08/09/2026 15:42
@@ -278,6 +292,7 @@ ed927bfe-c91d-4111-a3cf-29c1e69d3bc9,gibbous.hockey,available,14.99,77.99,medium
 23d676a1-5218-4ea9-812e-542c662456f3,pyretic.hockey,available,59.99,59.99,medium,low,7,namesilo,,,09/09/2026 07:03
 7b810799-6a16-420a-8af4-d99ec0a8a6d6,coercive.hockey,available,14.99,77.99,medium,low,8,name.com,,,12/08/2026 15:24
 27413da2-7e6c-415a-aee5-9712aef1ed66,mons.hockey,available,59.99,59.99,high,low,4,namesilo,,,28/09/2026 14:54
+1b931d74-a6a9-439b-b4af-19ee8d178659,plywood.hockey,available,46.2,46.2,high,low,7,cloudflare,,,02/10/2026 06:06
 a389bf62-c674-48ff-a6a2-4ebd870b7e9c,adoring.hockey,available,59.99,59.99,high,low,7,namesilo,,,21/09/2026 19:41
 95a7ade3-04b2-4e21-aa6f-cf63405d176d,attenuate.hockey,available,14.99,77.99,medium,low,9,name.com,,,07/08/2026 15:21
 b501f244-e0fd-4ab6-8795-677d85e7a8b6,queenlike.hockey,available,59.99,59.99,medium,low,9,namesilo,,,09/09/2026 07:54
@@ -300,11 +315,12 @@ d3fff689-4cc9-45d0-ae64-36d5a3ef02ff,windflower.hockey,available,59.99,59.99,hig
 8d488893-2898-4372-9719-40d389a57fa4,topics.hockey,available,46.2,46.2,medium,low,6,cloudflare,,,30/09/2026 14:57
 7a99cf79-786c-4cfe-a17e-8ba6961a780f,otsego.hockey,available,46.2,46.2,medium,low,6,cloudflare,,,02/10/2026 01:06
 4e07c1ac-06cd-4a18-b33c-4a2700f82364,honeymoons.hockey,available,59.99,59.99,medium,low,10,namesilo,,,20/09/2026 01:32
+3aa77af7-f6b4-459a-995a-b98b5ebbd7f5,smokey.hockey,available,46.2,46.2,high,low,6,cloudflare,,,02/10/2026 19:03
 9915de66-1fde-43ff-ab4e-23d535f9ff20,alep.hockey,available,59.99,59.99,medium,low,4,namesilo,,,18/09/2026 05:14
 d7955a7f-36f9-4545-ab89-406ce1ea20fd,brackish.hockey,available,14.99,77.99,medium,low,8,name.com,,,11/08/2026 00:43
 8a51629a-c7c0-468a-9c74-4c5af98f45ac,muted.hockey,available,14.99,77.99,high,low,5,name.com,,,21/08/2026 15:56
 0074c37c-ee1d-4f40-9ed1-cfe98184c0b7,perak.hockey,available,61,,medium,low,5,unstoppable,,,01/10/2026 07:56
-0c39f759-d63b-4a93-b97c-f09e89674f09,attack.hockey,available,47.81,47.81,high,low,6,spaceship,,,28/09/2026 08:45
+0c39f759-d63b-4a93-b97c-f09e89674f09,attack.hockey,available,47.81,47.81,high,low,6,spaceship,,,02/10/2026 12:50
 2d4ade21-1232-4d08-aeee-24acadd72526,orkney.hockey,available,59.99,59.99,medium,low,6,namesilo,,,29/09/2026 15:23
 ff7b31f1-f052-418d-a1ac-df3f52579a62,run.hockey,available,59.99,59.99,high,medium,3,namesilo,,,19/09/2026 07:07
 2848acd9-9ae8-4a40-9555-105d9f4ff695,tex.hockey,available,47.81,47.81,medium,low,3,spaceship,,,29/09/2026 03:26
@@ -319,7 +335,9 @@ aa5ffaa1-1034-4616-9a02-2af8b39e482c,valves.hockey,available,59.99,59.99,medium,
 5787b2d0-b3dc-4b91-88cb-4db8cc59fde4,hoy.hockey,available,59.99,59.99,high,low,3,namesilo,,,22/09/2026 05:42
 0fe571a1-70c6-40b3-8144-912f2d3d587b,colorless.hockey,available,14.99,77.99,medium,low,9,name.com,,,12/08/2026 17:53
 0b659f82-2112-4d84-a0b8-c7cdcd4e75fc,adelphi.hockey,available,8.24,47.89,high,low,7,porkbun,,,30/09/2026 13:46
+58b1f594-3776-4f37-8394-da633df64a9f,mir.hockey,available,47.81,47.81,high,medium,3,spaceship,,,02/10/2026 17:31
 b996853e-4637-4cc4-a877-117b98aae8ff,unlogical.hockey,available,14.99,77.99,low,low,9,name.com,,,21/08/2026 20:07
+e4c95c6f-2c45-47e2-90be-f12a6d20d5b9,krasnoyarsk.hockey,available,47.81,47.81,medium,low,11,spaceship,,,02/10/2026 20:01
 b486408e-4439-412c-bdba-77afa260bb95,noachian.hockey,available,62.98,72.98,medium,low,8,namecheap,,,03/09/2026 17:58
 24e003c9-ca4e-45a3-91f2-5b6ef630a4f2,homes.hockey,available,62.98,72.98,high,low,5,namecheap,,,18/09/2026 16:52
 f63b2459-707d-4ac6-a97d-c50e5b7eb127,knives.hockey,available,61,,medium,low,6,unstoppable,,,28/09/2026 05:00
@@ -338,6 +356,7 @@ e613f8c9-ac6b-4d72-9505-e8aa0eaf3532,derivative.hockey,available,14.99,77.99,hig
 3e3ee33d-7556-4197-9f05-c561be80477e,bandleader.hockey,available,59.99,59.99,high,low,10,namesilo,,,22/09/2026 01:25
 cdefe03a-95f4-4379-8444-fe75999a304a,phonologic.hockey,available,62.98,72.98,medium,low,10,namecheap,,,08/09/2026 19:14
 a5dbc3dc-21bc-4d30-ba86-2f6249ec7f1e,gills.hockey,available,47.81,47.81,medium,low,5,spaceship,,,30/09/2026 14:13
+7243586b-deb7-44eb-bdfe-4a14c12046c7,muhammed.hockey,available,61,,medium,low,8,unstoppable,,,02/10/2026 09:49
 c02b9d0b-3455-44d6-ab94-5eaf1b47cde7,deseret.hockey,available,8.24,47.89,medium,low,7,porkbun,,,01/10/2026 23:59
 748b4db6-fd24-40fd-9b5b-32d8d1da7687,dripless.hockey,available,14.99,77.99,medium,low,8,name.com,,,14/08/2026 19:31
 72a469f2-90ec-4237-b80c-0084d130b916,aluminium.hockey,available,59.99,59.99,high,low,9,namesilo,,,18/09/2026 00:20
@@ -361,6 +380,7 @@ f9ba6d26-0e45-4062-9e6f-6d49eb428e53,whore.hockey,available,14.99,77.99,high,low
 a9782721-8a21-402a-95c8-8f5b293ebe07,bicycle.hockey,available,59.99,59.99,high,low,7,namesilo,,,27/09/2026 03:10
 b9537d69-e928-453d-9342-96cf5b3a52b5,chalkboards.hockey,available,59.99,59.99,low,low,11,namesilo,,,19/09/2026 23:25
 f5b59588-6f81-4bcd-859d-4f2c09c7e7c0,adair.hockey,available,46.2,46.2,medium,low,5,cloudflare,,,28/09/2026 16:27
+d5d74bb8-38b5-4f15-8855-2f637b14e750,speck.hockey,available,47.81,47.81,medium,low,5,spaceship,,,02/10/2026 14:45
 2fdc7dfe-6d82-4d86-91fa-23aec6332df9,mutations.hockey,available,62.98,72.98,medium,low,9,namecheap,,,30/09/2026 16:14
 91a58f3d-f05f-4b19-8c25-6830ed882230,uncoiled.hockey,available,59.99,59.99,medium,low,8,namesilo,,,12/09/2026 05:44
 20ed4a36-1cfa-48a8-b620-1812cc00797a,nervous.hockey,available,62.98,72.98,medium,low,7,namecheap,,,21/09/2026 22:02
@@ -388,7 +408,8 @@ c5e0816d-3c62-46b3-abfc-aae51755d33a,sewall.hockey,available,59.99,59.99,medium,
 de233a28-1c1f-4f57-ae3f-bada1751200e,ultimately.hockey,available,47.81,47.81,medium,low,10,spaceship,,,28/09/2026 12:39
 74bb0139-c9d4-4199-86ac-047e0e55a710,baldr.hockey,available,62.98,72.98,medium,low,5,namecheap,,,21/09/2026 21:35
 94009cb8-0dd4-47bd-a7a9-eb9685623509,preparations.hockey,available,61,,low,low,12,unstoppable,,,29/09/2026 05:22
-567deb79-dff8-48ea-af9f-d8e6a126cdd1,duracell.hockey,available,14.99,,high,low,8,name.com,,,
+567deb79-dff8-48ea-af9f-d8e6a126cdd1,duracell.hockey,available,59.99,59.99,high,low,8,namesilo,,,02/10/2026 06:21
+88e83f55-6b9d-41e0-8600-f9b038c787ce,extinguish.hockey,available,59.99,59.99,high,low,10,namesilo,,,02/10/2026 06:41
 7476fd46-3054-46ac-afc6-8cd28b21e139,galactic.hockey,available,14.99,77.99,high,low,8,name.com,,,18/08/2026 19:35
 269e01cc-9eee-4089-b4d0-1f0987191498,thereafter.hockey,available,59.99,59.99,high,low,10,namesilo,,,16/09/2026 08:38
 39c4fd12-ca1d-4f1a-b413-a418f8ac5657,endocrinal.hockey,available,14.99,77.99,medium,low,10,name.com,,,17/08/2026 01:02
@@ -396,6 +417,7 @@ de233a28-1c1f-4f57-ae3f-bada1751200e,ultimately.hockey,available,47.81,47.81,med
 099a918c-1265-4e9f-bb5f-47ab4842cb8a,unrelated.hockey,available,62.98,72.98,medium,low,9,namecheap,,,12/09/2026 18:04
 32db1ed2-533b-4b31-84c0-a37e75880d24,buttonlike.hockey,available,14.99,77.99,medium,low,10,name.com,,,09/08/2026 03:39
 555b03c9-e4b3-4406-a47f-9a4c965310c8,bushwhack.hockey,available,59.99,59.99,high,low,9,namesilo,,,18/09/2026 17:32
+e398d676-4ad0-4286-9705-6dced8bff9b5,pottsville.hockey,available,8.24,49.44,medium,low,10,dynadot,,,02/10/2026 10:34
 9e0f8b3e-2692-42d5-880a-7c711dc6d5bf,plaintiff.hockey,available,47.81,47.81,high,low,9,spaceship,,,29/09/2026 11:57
 afe786f9-4c30-4d7f-a203-e098209776f7,bilimbi.hockey,available,62.98,72.98,medium,low,7,namecheap,,,21/09/2026 09:13
 ee11096f-8bf9-457c-b07f-54972ffeaaa0,boldly.hockey,available,59.99,59.99,high,low,6,namesilo,,,14/09/2026 00:53
@@ -423,15 +445,21 @@ fe971467-b313-4e92-8071-f42533a3cc8c,skirts.hockey,available,46.2,46.2,medium,lo
 8956542c-5a31-4dee-8ea9-46f034d1c7ce,stress.hockey,available,47.81,47.81,high,low,6,spaceship,,,28/09/2026 17:21
 a49be78e-5f43-4770-a127-925c804264b5,binet.hockey,available,59.99,59.99,medium,low,5,namesilo,,,18/09/2026 06:25
 74f99fb5-8d54-4a49-b694-ea8f76e8c262,evanston.hockey,available,61,,medium,low,8,unstoppable,,,28/09/2026 08:11
+21125b79-53b8-403f-8a74-8de873a6268c,riddles.hockey,available,47.81,47.81,high,low,7,spaceship,,,02/10/2026 19:06
 c090bdbb-dd04-457a-842c-366083973ada,changeless.hockey,available,14.99,77.99,medium,low,10,name.com,,,12/08/2026 01:58
+009caf56-2081-4366-aa76-2db904120319,bly.hockey,available,62.98,72.98,medium,low,3,namecheap,,,02/10/2026 06:48
 80655914-1ae8-40a8-875d-b59e42ba3734,aeneid.hockey,available,62.98,72.98,medium,low,6,namecheap,,,17/09/2026 12:28
 802fdee5-1250-48e6-b8bd-7a0d9f95fa13,bryson.hockey,available,47.81,47.81,medium,low,6,spaceship,,,29/09/2026 15:28
 89e384a9-b24c-49f9-8ad8-a664390ccef0,untaped.hockey,available,59.99,59.99,medium,low,7,namesilo,,,12/09/2026 10:16
 5923970f-6a4e-4b8e-b710-9745142fddf8,forged.hockey,available,14.99,77.99,high,low,6,name.com,,,18/08/2026 11:54
 7c9f6748-dfa7-44b1-ae55-79ddddf090bd,sniff.hockey,available,61,,high,low,5,unstoppable,,,30/09/2026 11:21
+e001f993-5327-4a19-ae66-e7e383938df1,lemons.hockey,available,8.24,49.44,medium,low,6,dynadot,,,02/10/2026 22:20
+54cbb989-03c7-4c8c-913c-7299d7883c79,aust.hockey,available,47.81,47.81,high,low,4,spaceship,,,02/10/2026 08:35
+08622a98-0978-47fd-b16a-36aee3d790fa,competed.hockey,available,46.2,46.2,high,low,8,cloudflare,,,02/10/2026 23:24
 a311c12f-dcad-4914-9ba7-e5d3dac1892f,cloudberry.hockey,available,62.98,72.98,medium,low,10,namecheap,,,21/09/2026 20:03
 a785a48a-f840-4b6d-9d73-7484dcc309cf,notifies.hockey,available,59.99,59.99,medium,low,8,namesilo,,,18/09/2026 08:35
 8e85239c-7ad4-4383-ad49-269d441e133d,revolutionary.hockey,available,47.81,47.81,high,low,13,spaceship,,,28/09/2026 07:08
+129fc7f9-09e4-4a86-820e-4721e0d2481f,yonkers.hockey,available,61,,medium,low,7,unstoppable,,,02/10/2026 19:44
 90e29195-1cca-4ef0-b8c2-77fd48117753,dip.hockey,available,59.99,59.99,high,low,3,namesilo,,,24/09/2026 10:33
 b20291cd-82ab-480b-856b-d6ddc37621ba,stations.hockey,available,62.98,72.98,high,low,8,namecheap,,,30/09/2026 11:51
 5e5255de-51ce-4ad3-82f6-9b7eaa34c18c,liable.hockey,available,59.99,59.99,high,low,6,namesilo,,,01/10/2026 02:02
@@ -439,6 +467,7 @@ b20291cd-82ab-480b-856b-d6ddc37621ba,stations.hockey,available,62.98,72.98,high,
 ce04ea2f-f41b-4d94-9f73-ac136fc8afbe,remorse.hockey,available,62.98,72.98,medium,low,7,namecheap,,,29/09/2026 00:28
 24ee4c4d-243b-4344-86bd-90d24f5c4d50,stack.hockey,available,14.99,77.99,high,medium,5,name.com,,,25/08/2026 00:45
 b0292d40-d610-4036-a01d-90275ae5670c,pluperfect.hockey,available,59.99,59.99,medium,low,10,namesilo,,,08/09/2026 22:00
+cd915cd6-5b5c-47f1-ad1a-47fb0b41a97d,mbs.hockey,available,59.99,59.99,high,low,3,namesilo,,,02/10/2026 20:49
 72328339-f344-4ccb-a3d4-09c26964d925,way.hockey,available,47.81,47.81,high,low,3,spaceship,,,27/09/2026 15:08
 29a57178-1ddc-4ab6-a226-29574f0db3e4,adulterate.hockey,available,14.99,77.99,medium,low,10,name.com,,,
 bc499971-d258-472f-b289-5664d3216453,solely.hockey,available,14.99,77.99,high,low,6,name.com,,,
@@ -472,11 +501,12 @@ ea161f4e-cb51-4d83-8cd2-22ce68aaa700,teri.hockey,available,47.81,47.81,medium,lo
 bdc4ab23-c8b2-44a3-84c0-59b4b24e9818,kabul.hockey,available,46.2,46.2,high,low,5,cloudflare,,,27/09/2026 12:08
 23950eb5-4173-4901-a008-86ecaf5bf913,syntactic.hockey,available,59.99,59.99,medium,low,9,namesilo,,,11/09/2026 06:39
 6df9ea97-11f1-479e-9d0b-dab0a8e77c22,grain.hockey,available,61,,high,low,5,unstoppable,,,28/09/2026 01:37
+e8e9b6e7-80d4-4ab1-a162-462b63586707,minto.hockey,available,46.2,46.2,high,low,5,cloudflare,,,02/10/2026 20:21
 7beeb8de-d47f-4f37-b393-0866d2de09f1,rustle.hockey,available,59.99,59.99,high,low,6,namesilo,,,13/09/2026 11:37
 6aee914e-13bf-464a-b2a2-398c37b7fb69,import.hockey,available,62.98,72.98,high,low,6,namecheap,,,25/09/2026 18:33
 6cf77735-8a4c-4ef0-b953-1bebc0c0c3d8,accessible.hockey,available,59.99,59.99,high,low,10,namesilo,,,21/09/2026 15:38
 d3c1482d-2b51-477e-9b05-dd2c701eb63e,ashcan.hockey,available,59.99,59.99,medium,low,6,namesilo,,,20/09/2026 13:35
-0ffba0c6-e302-4d7b-a6a6-65324d7b707c,exploration.hockey,available,47.81,47.81,high,low,11,spaceship,,,28/09/2026 02:39
+0ffba0c6-e302-4d7b-a6a6-65324d7b707c,exploration.hockey,available,46.2,46.2,high,low,11,cloudflare,,,02/10/2026 05:31
 0b57e9f2-eb3d-412c-a460-5aa9fe91a436,unpopular.hockey,available,59.99,59.99,medium,low,9,namesilo,,,12/09/2026 17:11
 023039b6-f2b5-4582-accd-48da5ab7145e,rapporteur.hockey,available,62.98,72.98,high,low,10,namecheap,,,29/09/2026 20:07
 30137049-e163-498e-bcb5-735f9eea226f,tantrik.hockey,available,59.99,59.99,medium,low,7,namesilo,,,11/09/2026 08:07
@@ -502,7 +532,9 @@ f067ff11-e2f0-47c1-8b00-acb258962c6d,ceremonies.hockey,available,59.99,59.99,med
 59e0883f-8ae5-46ba-a3cc-e88bcacc6a3f,persuade.hockey,available,47.81,47.81,high,low,8,spaceship,,,27/09/2026 16:35
 c0d0de68-5688-473a-bb9d-6834ed21e4de,amati.hockey,available,59.99,59.99,high,low,5,namesilo,,,18/09/2026 16:09
 6614d383-e67c-4599-bf4f-198852bd282c,alerting.hockey,available,59.99,59.99,high,low,8,namesilo,,,18/09/2026 05:27
+3efcc789-b1cf-4be8-9b7b-2a328c22483a,rehearsed.hockey,available,61,,high,low,9,unstoppable,,,02/10/2026 18:15
 86ee6602-c379-4e3a-8e4b-dc70616ab8b9,accordingly.hockey,available,59.99,59.99,medium,low,11,namesilo,,,29/09/2026 02:47
+90c371bb-a7f1-4b5b-9ab9-91c9298b79b4,garnier.hockey,available,59.99,59.99,high,low,7,namesilo,,,02/10/2026 05:01
 f81494f3-617f-49da-afe8-60c24996f9ea,indentured.hockey,available,14.99,77.99,medium,low,10,name.com,,,06/08/2026 08:34
 4305de05-0d3a-4317-94ba-f0a5e22d6a93,barnet.hockey,available,8.24,49.44,medium,low,6,dynadot,,,28/09/2026 20:56
 d1ac5d13-56f6-4556-9781-25f6b474e7f1,rimless.hockey,available,59.99,59.99,medium,low,7,namesilo,,,09/09/2026 17:43
@@ -513,6 +545,7 @@ e60ade24-f09a-4f44-88ad-af374c7909dc,observed.hockey,available,62.98,72.98,high,
 4ed88427-3a22-4140-81a0-75726c2c3f55,quaternary.hockey,available,14.99,77.99,medium,low,10,name.com,,,
 7bd7b93b-809b-4221-8e8d-1f292e255a56,folded.hockey,available,8.24,49.44,medium,low,6,dynadot,,,28/09/2026 16:55
 d84c7945-bd18-4e79-b36d-fa936819637f,abila.hockey,available,59.99,59.99,medium,low,5,namesilo,,,16/09/2026 15:52
+1b8a4710-f929-449b-bf9d-06ec3872e463,plantations.hockey,available,47.81,47.81,medium,low,11,spaceship,,,02/10/2026 12:59
 a52d76df-97f7-422c-911b-eb9ddfcfb77a,towel.hockey,available,59.99,59.99,high,low,5,namesilo,,,28/09/2026 03:13
 0c85d7f4-1970-4942-8f39-9375695689d1,problem.hockey,available,61,,high,low,7,unstoppable,,,30/09/2026 07:28
 ab5e4457-99de-4049-81e0-5a75b7762563,dose.hockey,available,59.99,59.99,high,low,4,namesilo,,,29/09/2026 00:13
@@ -535,6 +568,7 @@ ae92fc97-1970-4583-b527-016df0277192,uveous.hockey,available,59.99,59.99,low,low
 98edf122-cf79-47f4-9278-dd82e571a518,hairdresser.hockey,available,62.98,72.98,high,low,11,namecheap,,,01/10/2026 22:32
 cfdeda7a-3639-4107-8d15-8edf18d682b4,corresponding.hockey,available,61,,medium,low,13,unstoppable,,,01/10/2026 19:34
 322f1129-6b8c-49b4-9b01-ab2313090371,belloc.hockey,available,59.99,59.99,medium,low,6,namesilo,,,23/09/2026 06:16
+f10e5063-465c-4311-8134-6950624c3ac1,forecaster.hockey,available,47.81,47.81,high,low,10,spaceship,,,03/10/2026 00:49
 ed1af29b-e93d-4b5a-97e7-656fecd383e7,handkerchief.hockey,available,59.99,59.99,high,low,12,namesilo,,,30/09/2026 06:03
 9e22c484-a0c8-404b-8eb0-4f5aea0ae7e8,endwise.hockey,available,59.99,59.99,medium,low,7,namesilo,,,14/09/2026 15:37
 c6d48a63-46cb-4ece-9085-aa2534c052eb,flow.hockey,available,62.98,72.98,high,high,4,namecheap,,,24/09/2026 20:11
@@ -561,6 +595,7 @@ f6910577-1c02-48ba-a210-2e8951a8910a,genevieve.hockey,available,8.24,47.89,mediu
 7a28b989-8122-4c5c-87bd-0e324ed6f073,blooded.hockey,available,14.99,77.99,high,low,7,name.com,,,10/08/2026 15:18
 ff393afa-764e-464b-8ffd-b9e81cf8eb42,periodic.hockey,available,59.99,59.99,medium,low,8,namesilo,,,08/09/2026 17:11
 79ad7c1d-2dad-4e57-b7e9-88dbe727ba8c,hud.hockey,available,46.2,46.2,high,low,3,cloudflare,,,01/10/2026 19:14
+6ad1c597-ecf9-4660-b58f-fbaba3b47f25,braking.hockey,available,59.99,59.99,high,low,7,namesilo,,,02/10/2026 11:52
 15e30aef-6465-48a8-b05e-bad3947e6d51,newton.hockey,available,46.2,46.2,high,low,6,cloudflare,,,30/09/2026 00:24
 f38698f4-0c86-43e1-894e-874e6d8ddc5f,goodly.hockey,available,14.99,77.99,high,low,6,name.com,,,20/08/2026 16:36
 348d7bc7-06ca-48c9-b209-efec1eb0dc14,diplomatic.hockey,available,59.99,59.99,high,low,10,namesilo,,,24/09/2026 10:36
@@ -568,11 +603,13 @@ f38698f4-0c86-43e1-894e-874e6d8ddc5f,goodly.hockey,available,14.99,77.99,high,lo
 affad589-cdf3-4ed4-8791-c77ae114de62,subarctic.hockey,available,59.99,59.99,medium,low,9,namesilo,,,10/09/2026 23:36
 d2453814-f427-4c96-9849-e6abdf93be3d,transplant.hockey,available,59.99,59.99,high,low,10,namesilo,,,28/09/2026 02:03
 71c8a8d6-30fe-438e-b180-bb4898125014,mccauley.hockey,available,47.81,47.81,medium,low,8,spaceship,,,01/10/2026 02:59
+dedf271a-1a1f-426b-b8bd-ed22be80aa93,dfa.hockey,available,61,,high,low,3,unstoppable,,,03/10/2026 02:42
 d83f1fe7-7840-4476-a6a5-b7643abb528a,kelsey.hockey,available,61,,medium,low,6,unstoppable,,,28/09/2026 18:22
 baf3e5f8-3086-439b-bd56-f5418ad6dda4,napkins.hockey,available,59.99,59.99,medium,low,7,namesilo,,,21/09/2026 05:52
 b85b65fd-9a45-402a-b7fa-9eae3e4b40e3,out.hockey,available,46.2,46.2,high,low,3,cloudflare,,,30/09/2026 17:39
 f65a8781-9c7e-4df3-8eae-7edb59a7cb98,blacksnake.hockey,available,59.99,59.99,medium,low,10,namesilo,,,24/09/2026 01:28
-87b5038f-da12-4924-88b2-03b09de9bcb5,ads.hockey,available,14.99,,high,medium,3,name.com,,,
+87b5038f-da12-4924-88b2-03b09de9bcb5,ads.hockey,available,61,,high,medium,3,unstoppable,,,02/10/2026 13:41
+3db18d40-9627-4e10-b844-86879b87750e,acr.hockey,available,47.81,47.81,high,low,3,spaceship,,,02/10/2026 19:10
 d9f0e62c-7792-49fc-88de-4baba12436ef,jehovah.hockey,available,14.99,77.99,high,low,7,name.com,,,
 d526482e-6e89-4f32-b0ba-2a69d05eefb9,troyes.hockey,available,47.81,47.81,medium,low,6,spaceship,,,01/10/2026 08:31
 8cc54221-686a-43b6-8840-1119c0ac6b5e,subliminal.hockey,available,59.99,59.99,high,low,10,namesilo,,,11/09/2026 00:08
@@ -607,7 +644,8 @@ e90e8539-0414-4f28-8352-f9a6b1b5798a,nanda.hockey,available,59.99,59.99,medium,l
 5a9123ed-46b9-442c-8292-ae29891fe70c,classical.hockey,available,14.99,77.99,high,low,9,name.com,,,12/08/2026 09:42
 1497f456-d4f7-46cf-8dec-ba58169a6658,sterilized.hockey,available,62.98,72.98,medium,low,10,namecheap,,,10/09/2026 20:11
 54495808-d6dd-4cae-a02a-bd91ff76042c,este.hockey,available,61,,high,low,4,unstoppable,,,29/09/2026 15:17
-b88e2e6a-7db3-4636-9e30-d5c8e4a4a4f1,coming.hockey,available,59.99,59.99,high,low,6,namesilo,,,23/09/2026 15:31
+b88e2e6a-7db3-4636-9e30-d5c8e4a4a4f1,coming.hockey,available,47.81,47.81,high,low,6,spaceship,,,03/10/2026 02:33
+66ccde05-ffaf-40fa-af5b-f5174a14b06b,thrash.hockey,available,47.81,47.81,medium,low,6,spaceship,,,03/10/2026 00:45
 28b6cae8-1309-4806-b30e-e2d84b7eb396,executed.hockey,available,14.99,77.99,high,low,8,name.com,,,17/08/2026 16:55
 2f08af97-0db8-47bc-b116-7c27bcd2487a,attachable.hockey,available,14.99,77.99,medium,low,10,name.com,,,07/08/2026 15:36
 8e5399e2-81fe-4fc7-81c9-69cb87212cc1,witnesses.hockey,available,62.98,72.98,medium,low,9,namecheap,,,25/09/2026 18:59
@@ -616,7 +654,7 @@ f77cc532-2bbb-4650-aaa9-9a8f07968687,prostate.hockey,available,59.99,59.99,high,
 f7fb4b58-7fac-4a86-af73-e53585cdcc17,titans.hockey,available,46.2,46.2,high,low,6,cloudflare,,,01/10/2026 17:53
 613f384a-e674-4422-8e7f-48d7dc105dd4,aorist.hockey,available,59.99,59.99,medium,low,6,namesilo,,,19/09/2026 16:03
 ef017945-4574-47e0-b104-9faf12bec926,crummy.hockey,available,14.99,77.99,medium,low,6,name.com,,,11/08/2026 09:02
-1bc8a135-e4f6-4728-8c34-960b94afd4bd,summertime.hockey,available,59.99,59.99,high,low,11,namesilo,,,18/09/2026 00:39
+1bc8a135-e4f6-4728-8c34-960b94afd4bd,summertime.hockey,available,59.99,59.99,high,low,11,namesilo,,,02/10/2026 16:53
 3dd88c95-0341-4e70-93c7-77d9e7f21715,degrading.hockey,available,14.99,77.99,medium,low,9,name.com,,,13/08/2026 20:10
 3f0a26be-1613-4931-95a8-3ff6c493e661,graduate.hockey,available,14.99,77.99,high,low,8,name.com,,,20/08/2026 17:51
 0b3939a8-26c3-4921-be37-6946a0bb23bf,unsuccessful.hockey,available,61,,medium,low,12,unstoppable,,,29/09/2026 21:15
@@ -639,13 +677,16 @@ fd1e4a25-d36b-4a32-8a06-877564927d18,galvanic.hockey,available,14.99,77.99,high,
 1b33cc12-52db-438a-87be-1a58a58357d0,expects.hockey,available,59.99,59.99,medium,low,7,namesilo,,,20/09/2026 01:39
 2ef8e2c4-d7be-474d-8d61-308534974780,redemption.hockey,available,47.81,47.81,high,low,10,spaceship,,,29/09/2026 05:37
 4f8ab905-c484-455a-9472-707269dc6215,flop.hockey,available,59.99,59.99,high,low,4,namesilo,,,23/09/2026 12:03
+1e6ee2d0-6baf-4375-8e94-a81f7c4d79f0,sula.hockey,available,46.2,46.2,high,low,4,cloudflare,,,03/10/2026 00:56
 99231ec6-db95-430e-a1eb-423fc38fd29d,mason.hockey,available,59.99,59.99,high,low,5,namesilo,,,16/09/2026 12:59
 dd4d372d-7e78-45f4-9f2a-47c4638d3a0f,wisdoms.hockey,available,59.99,59.99,medium,low,7,namesilo,,,21/09/2026 10:19
+e77e9e3c-599d-4816-891e-a3768cee777f,administration.hockey,available,8.24,49.44,high,low,14,dynadot,,,02/10/2026 12:30
 7ffd54b2-53cc-494e-9060-50065f6058e4,vladivostok.hockey,available,59.99,59.99,high,low,11,namesilo,,,29/09/2026 15:13
 8ba1b7a5-3e58-4b02-bb1b-7bc8360049b6,catholicism.hockey,available,59.99,59.99,high,low,11,namesilo,,,17/09/2026 00:07
 ddf13241-2cda-4a43-9343-15a825062e6d,artiste.hockey,available,59.99,59.99,high,low,7,namesilo,,,20/09/2026 11:55
 d1a135c1-1ab6-4ccc-800b-7244cb3b3c1a,luanda.hockey,available,62.98,72.98,medium,low,6,namecheap,,,19/09/2026 06:58
 3063712d-5ae8-4c90-b534-8a6304754143,abele.hockey,available,59.99,59.99,medium,low,5,namesilo,,,16/09/2026 15:02
+7f2e10c2-3b98-4cc2-a731-46eff1f91afb,hardness.hockey,available,59.99,59.99,high,low,8,namesilo,,,02/10/2026 14:31
 0ab1e54b-f054-4a08-807e-8c2a986001e6,heretical.hockey,available,14.99,77.99,medium,low,9,name.com,,,14/08/2026 12:35
 95ebc136-b556-4f13-affd-84b2121485c0,celtic.hockey,available,14.99,77.99,high,low,6,name.com,,,11/08/2026 23:38
 08596d56-3708-436d-a98b-eababb6b8d68,crm.hockey,available,59.99,59.99,high,medium,3,namesilo,,,01/10/2026 05:32
@@ -661,7 +702,8 @@ c7c5eb70-7bad-4987-9171-b29eb7a1339a,childly.hockey,available,14.99,77.99,medium
 380e399d-c960-4969-b809-84596d419f0b,shifting.hockey,available,8.24,47.89,high,low,8,porkbun,,,27/09/2026 21:05
 57d273fc-170d-4b02-8841-d1fda478594b,casa.hockey,available,46.2,46.2,high,low,4,cloudflare,,,28/09/2026 20:54
 c9e044e8-2125-40f9-9795-5f46bbba7bd9,yorkshire.hockey,available,61,,high,low,9,unstoppable,,,30/09/2026 03:11
-4e2e2296-0a89-4662-aa08-b43aca4d3416,sum.hockey,available,59.99,59.99,high,low,3,namesilo,,,28/09/2026 22:55
+fd6f6bff-20e9-495c-982a-1fc0ca829b61,asn.hockey,available,47.81,47.81,high,low,3,spaceship,,,03/10/2026 04:25
+4e2e2296-0a89-4662-aa08-b43aca4d3416,sum.hockey,available,59.99,59.99,high,low,3,namesilo,,,02/10/2026 06:59
 5eead169-5834-40f3-a1a4-2c9490f67939,nan.hockey,available,46.2,46.2,high,low,3,cloudflare,,,29/09/2026 21:19
 1f167ac4-e589-42a8-b3a4-3c0b5852756f,uprightly.hockey,available,59.99,59.99,medium,low,9,namesilo,,,15/09/2026 01:06
 6eaf554c-c41b-42ae-b615-68be5f58cc8b,yunnan.hockey,available,59.99,59.99,medium,low,6,namesilo,,,28/09/2026 06:53
@@ -690,6 +732,7 @@ d9c553a2-3290-4e77-8d7d-78eee88c4ad0,balsamic.hockey,available,59.99,59.99,high,
 76e5bf33-43b5-4195-ad0c-3d5090b261e9,consultative.hockey,available,8.24,47.89,high,low,12,porkbun,,,30/09/2026 20:07
 31f3e2d1-8253-4871-a6b9-22a1e5935133,vendors.hockey,available,59.99,59.99,medium,low,7,namesilo,,,20/09/2026 22:00
 acb4d351-05ca-49c7-95b6-8ae77f786ab9,diluted.hockey,available,14.99,77.99,medium,low,7,name.com,,,14/08/2026 07:45
+e0e2c917-166f-4738-be07-8a05d6224f08,soa.hockey,available,8.24,49.44,high,low,3,dynadot,,,03/10/2026 04:41
 a0016dee-7045-4d4a-b39d-e640090c3655,arity.hockey,available,59.99,59.99,medium,low,5,namesilo,,,20/09/2026 06:02
 42245372-4216-449d-bc6b-b0c62fe701e5,beverley.hockey,available,61,,medium,low,8,unstoppable,,,29/09/2026 00:09
 6ba1df95-991a-4a0a-ab02-71b5abfd9566,tortoise.hockey,available,62.98,72.98,high,low,8,namecheap,,,30/09/2026 18:59
@@ -702,6 +745,7 @@ e33c408e-8ebb-4fbc-9d92-e2a0f3182623,nth.hockey,available,59.99,59.99,medium,low
 94734b46-f3d7-4f85-a0e8-7ea267496549,hey.hockey,available,62.98,72.98,high,medium,3,namecheap,,,30/09/2026 23:17
 9c010b10-268e-4598-8932-e681be1a4f67,toni.hockey,available,59.99,59.99,high,low,4,namesilo,,,27/09/2026 07:46
 97bc9711-227d-415a-bc65-0fb3242dd93a,muntjac.hockey,available,59.99,59.99,medium,low,7,namesilo,,,22/09/2026 06:28
+bd9c0210-2dbe-4aac-b17c-812af36e750b,fibres.hockey,available,61,,medium,low,6,unstoppable,,,02/10/2026 11:53
 bd0000f0-4cbe-492e-919f-e78ef02b98c7,anasarca.hockey,available,62.98,72.98,medium,low,8,namecheap,,,19/09/2026 03:14
 5908cd34-1e77-4582-920d-93e87a201fe3,ardeidae.hockey,available,59.99,59.99,medium,low,8,namesilo,,,20/09/2026 03:06
 8b7ab899-3358-4893-8fa5-5b07cd949f62,accountant.hockey,available,62.98,72.98,high,low,10,namecheap,,,16/09/2026 23:11
@@ -725,6 +769,7 @@ d2c020f9-a09a-48f0-99d1-d26ac9140821,reasonable.hockey,available,59.99,59.99,hig
 f927b67f-d955-483c-91f7-a7b015d162bd,unlucky.hockey,available,14.99,77.99,medium,low,7,name.com,,,21/08/2026 19:11
 77362287-73e3-4b7a-8aad-f712f288e357,becoming.hockey,available,14.99,77.99,high,low,8,name.com,,,09/08/2026 06:08
 34ae848b-0236-4114-a7d7-2f6ef07c7119,frock.hockey,available,14.99,77.99,medium,low,5,name.com,,,14/08/2026 18:55
+42b62094-54b1-47d5-9ee1-d1b473a46efb,potawatomi.hockey,available,59.99,59.99,high,low,10,namesilo,,,02/10/2026 06:06
 ad828e0e-339c-41fb-bd6c-bc41f627473b,messianic.hockey,available,14.99,77.99,high,low,9,name.com,,,24/08/2026 21:22
 36d44f16-9225-4149-98ec-7041bdd699a6,ovarian.hockey,available,14.99,77.99,medium,low,7,name.com,,,04/09/2026 19:55
 7913d790-5855-4746-8db4-9f73bd6a572b,won.hockey,available,47.81,47.81,high,low,3,spaceship,,,28/09/2026 10:43
@@ -743,12 +788,14 @@ d1d4793a-6345-47fa-ae10-5499e7d900c9,palladio.hockey,available,59.99,59.99,mediu
 cb3f071f-cce0-43f6-9951-e56960b4048a,checking.hockey,available,59.99,59.99,high,low,8,namesilo,,,25/09/2026 12:11
 8d876d6e-1e35-4b41-9378-1a1b28e69415,yon.hockey,available,59.99,59.99,medium,low,3,namesilo,,,13/09/2026 14:47
 85dd1ab4-93e4-4b51-bde4-d06ce1d59bf7,arno.hockey,available,59.99,59.99,high,low,4,namesilo,,,20/09/2026 08:12
+7f5f8bc2-3d17-4a3f-9f81-9c36870d00e5,lieu.hockey,available,59.99,59.99,high,low,4,namesilo,,,02/10/2026 05:37
 83c550d8-b5b5-4679-a8af-5a3d65f4f9b3,snuck.hockey,available,59.99,59.99,medium,low,5,namesilo,,,20/09/2026 23:46
 a0c4d819-ecca-4624-ade1-020cfd4cc53e,tactful.hockey,available,14.99,77.99,high,low,7,name.com,,,22/08/2026 15:49
 07b074b3-0a0e-49ab-9702-2c472c81fa21,zymotic.hockey,available,59.99,59.99,medium,low,7,namesilo,,,13/09/2026 15:57
 693a604c-e736-4d0f-b0b5-2002fa79a979,radon.hockey,available,59.99,59.99,high,low,5,namesilo,,,21/09/2026 00:00
 a62758b4-9858-4355-82b1-ddda225cf7d1,impossibility.hockey,available,59.99,59.99,medium,low,13,namesilo,,,30/09/2026 23:16
 08a370a4-a174-4bfd-891c-ba20d58c4666,lutzen.hockey,available,59.99,59.99,medium,low,6,namesilo,,,22/09/2026 15:24
+349bcf4b-498b-4487-8832-e39446d82195,selfhelp.hockey,available,59.99,59.99,high,low,9,namesilo,,,02/10/2026 06:22
 2fe3999c-9535-4442-9eb3-84797e5116de,selwyn.hockey,available,47.81,47.81,medium,low,6,spaceship,,,30/09/2026 05:08
 9d385adc-7bb8-4890-b323-896360f07bf6,dingdong.hockey,available,59.99,59.99,high,low,8,namesilo,,,14/09/2026 12:47
 c513dd50-1b71-4d32-9c28-676923510a8b,utes.hockey,available,46.2,46.2,medium,low,4,cloudflare,,,30/09/2026 07:10
@@ -765,10 +812,12 @@ ea659e6e-6aab-4e59-bc87-f6b4c0089997,purau.hockey,available,59.99,59.99,medium,l
 ad51ba94-03b6-4a9d-8719-db4a139f8d1f,etta.hockey,available,47.81,47.81,high,low,4,spaceship,,,30/09/2026 13:19
 50aeded7-8a7f-4052-ac93-c6954e697bbd,remission.hockey,available,47.81,47.81,high,low,9,spaceship,,,01/10/2026 03:27
 b93c7d44-3ab8-4ed8-8ab6-1a579427a3a7,stunted.hockey,available,59.99,59.99,medium,low,7,namesilo,,,10/09/2026 23:04
+c13336e1-bc15-4292-a21c-82e4ece4f176,margate.hockey,available,47.81,47.81,high,low,7,spaceship,,,02/10/2026 15:38
 9951871c-cf6b-4997-879a-3c5b0356b334,swot.hockey,available,14.99,77.99,medium,low,4,name.com,,,10/08/2026 18:21
 e6a168c0-bcce-4577-b496-2f585a0d56be,socialist.hockey,available,59.99,59.99,high,low,9,namesilo,,,10/09/2026 13:19
 8fda38cf-171f-46a4-8d36-f7d71194c0d3,orchestrated.hockey,available,59.99,59.99,high,low,12,namesilo,,,16/09/2026 23:12
 f173e781-d52b-48aa-97a5-e4ddcc9d52df,fiddling.hockey,available,14.99,77.99,medium,low,8,name.com,,,18/08/2026 03:28
+ef709523-304a-4faa-ab96-91abba3ea423,governess.hockey,available,47.81,47.81,high,low,9,spaceship,,,02/10/2026 15:36
 8ca58d6d-b1cd-4d8d-83e7-e84e28ac177b,ethnologic.hockey,available,14.99,77.99,medium,low,10,name.com,,,17/08/2026 13:51
 2c83eb34-1f7a-4d4e-9763-02614e8d9da0,quieted.hockey,available,59.99,59.99,medium,low,7,namesilo,,,20/09/2026 16:24
 e5bb1e22-3cb1-400e-a543-1f41f58c0cec,cxxxv.hockey,available,14.99,77.99,medium,low,5,name.com,,,
@@ -823,16 +872,19 @@ fc5ac426-8c56-4542-ab8b-53bc31e61329,superiority.hockey,available,46.2,46.2,high
 9b0c08d3-49de-47af-9d97-9933738b7a3c,relevant.hockey,available,59.99,59.99,high,low,8,namesilo,,,09/09/2026 13:33
 9b37e725-baf7-409d-a073-d3cc4d18754a,lexically.hockey,available,59.99,59.99,medium,low,9,namesilo,,,15/09/2026 11:16
 c6abca56-fe81-456a-a3c4-5ac64ff52ab6,semisolid.hockey,available,59.99,59.99,medium,low,9,namesilo,,,10/09/2026 03:26
+25e55c2f-d2df-4f34-80f3-6a59c920e219,huygens.hockey,available,59.99,59.99,medium,low,7,namesilo,,,03/10/2026 00:02
 fbf2876d-3daf-438d-8e0d-67df1b9197b0,jangling.hockey,available,14.99,77.99,medium,low,8,name.com,,,22/08/2026 12:19
 33103624-6c92-44df-bad6-6b7d33c90890,judging.hockey,available,8.24,49.44,high,low,7,dynadot,,,27/09/2026 14:29
 fad943ee-398f-46b8-a2ca-cb434884a019,formosa.hockey,available,47.81,47.81,high,low,7,spaceship,,,28/09/2026 05:46
 bede429e-430b-4fe8-a69f-47ccd5d7ed51,dates.hockey,available,59.99,59.99,medium,low,5,namesilo,,,18/09/2026 18:40
+4cf7b957-6e17-4c2e-95b4-512c0d76f3e9,diets.hockey,available,59.99,59.99,medium,low,5,namesilo,,,02/10/2026 12:37
 9b978660-c021-47a6-9be8-f29775945ff4,gamely.hockey,available,62.98,72.98,high,low,6,namecheap,,,14/09/2026 21:02
 90aeeefc-fdd1-4f3d-ae04-57dd3eaad061,busty.hockey,available,14.99,77.99,medium,low,5,name.com,,,10/08/2026 20:26
 01feefec-edf1-49af-b8c3-710e5e8c7d49,negative.hockey,available,59.99,59.99,high,low,8,namesilo,,,24/09/2026 11:09
 08c4c62a-d38c-4c6b-9f5e-28d3953dcf57,kenilworth.hockey,available,47.81,47.81,medium,low,10,spaceship,,,01/10/2026 11:13
 0b819723-7fcc-424c-8864-0afd52aeaa8c,sociedad.hockey,available,46.2,46.2,medium,low,8,cloudflare,,,29/09/2026 10:09
 3d8820c1-5596-434c-a9e4-0569408523f6,arriver.hockey,available,59.99,59.99,medium,low,7,namesilo,,,20/09/2026 09:16
+e8d17aeb-83e7-49a2-9ab1-3aa49d923f4a,advocating.hockey,available,46.2,46.2,medium,low,10,cloudflare,,,02/10/2026 21:40
 ccbb6825-4d56-493a-97b7-167daf962f7b,peoples.hockey,available,59.99,59.99,medium,low,7,namesilo,,,29/09/2026 01:49
 f21b47c8-078a-454c-b29c-07149192313b,powerful.hockey,available,59.99,59.99,high,low,8,namesilo,,,23/09/2026 09:23
 9eece20a-dac8-4f2d-81c9-7485bfbf2ace,dude.hockey,available,14.99,77.99,high,low,4,name.com,,,13/08/2026 17:07
@@ -843,6 +895,8 @@ f21b47c8-078a-454c-b29c-07149192313b,powerful.hockey,available,59.99,59.99,high,
 a6d20e77-aa19-4b11-9ac8-3ce30d8aa7a7,woodland.hockey,available,46.2,46.2,high,low,8,cloudflare,,,29/09/2026 20:30
 094ea856-0d91-4308-bc82-30714d511b1a,federate.hockey,available,14.99,77.99,high,low,8,name.com,,,18/08/2026 00:36
 ef909300-3145-473e-9907-77cd6328a867,intercultural.hockey,available,59.99,59.99,high,low,13,namesilo,,,01/10/2026 23:06
+534285cd-480e-417b-b611-1948265ee8fb,edgewater.hockey,available,47.81,47.81,medium,low,9,spaceship,,,02/10/2026 11:00
+4b80615e-f8b8-404e-9205-0173390cd161,nandi.hockey,available,8.24,49.44,high,low,5,dynadot,,,02/10/2026 18:59
 1eb95087-834c-4f9d-885e-f4d6001239d8,untimely.hockey,available,14.99,77.99,medium,low,8,name.com,,,21/08/2026 19:32
 6ec3dff3-86ec-4050-bd8d-d0abae9c67ab,alkanet.hockey,available,59.99,59.99,medium,low,7,namesilo,,,18/09/2026 08:26
 65f464bc-fa22-47c5-8465-49a271e58d58,installed.hockey,available,59.99,59.99,medium,low,9,namesilo,,,28/09/2026 12:57
@@ -857,6 +911,7 @@ b12a7a23-7933-4caa-a2fc-79669da2e1a3,accrued.hockey,available,14.99,77.99,medium
 ed789a7f-86c9-4d5a-af36-71c6bde20e86,boxers.hockey,available,47.81,47.81,high,low,6,spaceship,,,29/09/2026 03:50
 9e2f3d78-bb2f-4c98-b81f-57ad22080583,baronial.hockey,available,14.99,77.99,medium,low,8,name.com,,,08/08/2026 20:11
 69bcaeec-a9a3-4007-b217-07b45c75cc3f,tainted.hockey,available,59.99,59.99,medium,low,7,namesilo,,,11/09/2026 07:12
+a957c9f4-0449-4a82-a370-f5166db0ec1d,ceylon.hockey,available,61,,high,low,6,unstoppable,,,02/10/2026 14:38
 292d98f3-d52e-4c06-900c-63e4d67d039a,bestiary.hockey,available,59.99,59.99,medium,low,8,namesilo,,,23/09/2026 10:36
 126636a4-ef09-46de-a6d2-3451cf27df2f,aram.hockey,available,59.99,59.99,medium,low,4,namesilo,,,19/09/2026 23:55
 fb2a1de9-d538-4094-9229-bd254e1e4bf1,shrubby.hockey,available,14.99,77.99,medium,low,7,name.com,,,18/08/2026 17:15
@@ -865,6 +920,7 @@ b6eef128-77d9-41cf-8ba6-0c9807f49351,machines.hockey,available,59.99,59.99,high,
 81bd72b9-5fc5-4f83-bc31-9b9efdd9a341,spiffy.hockey,available,14.99,77.99,high,low,6,name.com,,,13/08/2026 17:36
 f51ac809-aa49-4d3a-9d2d-f160e4e73127,installer.hockey,available,62.98,72.98,high,low,9,namecheap,,,01/10/2026 06:14
 7cca2f67-ca4b-4610-bfa4-7a6746bad2ce,terrifies.hockey,available,59.99,59.99,low,low,9,namesilo,,,18/09/2026 07:37
+82483aef-c1e6-44b6-b43e-265eebb01fa2,industrious.hockey,available,47.81,47.81,high,low,11,spaceship,,,03/10/2026 02:40
 87562b9a-8510-4c63-9784-a5929ef1fcc9,erica.hockey,available,47.81,47.81,high,low,5,spaceship,,,29/09/2026 00:50
 d1421a1e-6903-4f09-aa63-814d5fc4b09a,loony.hockey,available,14.99,77.99,medium,low,5,name.com,,,06/08/2026 21:17
 0c75dcd0-b017-4a0b-bb18-4a98bf252c36,occurrence.hockey,available,62.98,72.98,high,low,10,namecheap,,,25/09/2026 23:56
@@ -885,6 +941,7 @@ ab60fa02-6c31-42bc-aace-cbcd08ab3958,aerobiotic.hockey,available,14.99,77.99,med
 f12fb59f-9d58-476f-a655-12509d236280,stroppy.hockey,available,14.99,77.99,medium,low,7,name.com,,,10/08/2026 17:59
 ae776bae-032f-4ee8-ba0b-b2d260a5812f,compensated.hockey,available,47.81,47.81,medium,low,11,spaceship,,,01/10/2026 18:26
 30f41bce-6530-4963-9b4b-07b308fff2ec,joyce.hockey,available,46.2,46.2,high,low,5,cloudflare,,,27/09/2026 14:23
+1f9594ce-568a-4a7b-af5c-5865cfae50c6,footnote.hockey,available,8.24,47.89,high,low,8,porkbun,,,02/10/2026 15:12
 a6b2409a-d174-4544-a314-756c2bee9a43,dancers.hockey,available,59.99,59.99,high,low,7,namesilo,,,20/09/2026 05:50
 6d6adc2a-ba66-4695-8406-fbc081cf17f5,passim.hockey,available,62.98,72.98,medium,low,6,namecheap,,,15/09/2026 19:07
 71ea66e2-2c38-401a-a84c-3652a6ef19df,chinch.hockey,available,59.99,59.99,medium,low,6,namesilo,,,22/09/2026 22:46
@@ -892,11 +949,13 @@ a6b2409a-d174-4544-a314-756c2bee9a43,dancers.hockey,available,59.99,59.99,high,l
 754813e1-7833-4aa3-8e7a-4e4a5fadc538,propaganda.hockey,available,46.2,46.2,high,low,10,cloudflare,,,28/09/2026 15:08
 b020504a-4665-40c4-8e2e-8418905534eb,bassoon.hockey,available,59.99,59.99,high,low,7,namesilo,,,22/09/2026 12:33
 b2f59abc-7b8a-4379-979b-47ffc3c9f080,mortgaged.hockey,available,14.99,77.99,medium,low,9,name.com,,,25/08/2026 06:38
+38b9aad7-1053-42d2-b0fe-cc7e261fce50,egmont.hockey,available,59.99,59.99,medium,low,6,namesilo,,,02/10/2026 10:11
 1fea6a1b-dabe-477b-85ad-012c47f3ab94,settles.hockey,available,59.99,59.99,medium,low,7,namesilo,,,30/09/2026 07:18
 fd94af19-e28e-4539-b4fe-36e90d2b4773,aiglet.hockey,available,62.98,72.98,medium,low,6,namecheap,,,17/09/2026 18:23
 4d6951d8-52ba-4422-8c02-50cb5b29f686,palo.hockey,available,59.99,59.99,high,low,4,namesilo,,,27/09/2026 01:51
 ded2fdd9-80a8-465a-b178-4bdb6e8ad1a0,contralto.hockey,available,14.99,77.99,medium,low,9,name.com,,,
 50d7c47b-54f4-43c3-a7ac-f4b567887eaa,symonds.hockey,available,62.98,72.98,high,low,7,namecheap,,,30/09/2026 10:18
+295ecdb8-28d7-4b30-9877-1a58ff18944d,recorders.hockey,available,46.2,46.2,medium,low,9,cloudflare,,,02/10/2026 14:01
 2ce6185a-2cd3-449b-acd0-f653b60eaec2,tenfold.hockey,available,14.99,77.99,high,low,7,name.com,,,14/08/2026 01:44
 046b28a0-0f0a-4ae3-b7b7-5f71847074f8,growing.hockey,available,59.99,59.99,high,low,7,namesilo,,,19/09/2026 05:23
 215baeb9-a220-4d4c-af06-e078cbf50b32,dodge.hockey,available,101.99,101.99,high,low,5,godaddy,,,28/09/2026 01:47
@@ -926,6 +985,7 @@ ecd8ea9f-0d55-478e-99a4-863268f5d46e,shoes.hockey,available,59.99,59.99,high,low
 9f7a460c-3c23-439b-a33c-868eed333e3d,ducts.hockey,available,46.2,46.2,medium,low,5,cloudflare,,,02/10/2026 02:56
 3290eaf4-33b3-4f46-b246-396eeb38de96,perfidious.hockey,available,59.99,59.99,medium,low,10,namesilo,,,08/09/2026 16:31
 11d59830-5e6b-4eda-ba3f-741c271bf957,deceived.hockey,available,59.99,59.99,low,low,8,namesilo,,,29/09/2026 23:13
+096e27a1-c42f-48c6-aab4-d817a4f377e7,puritan.hockey,available,47.81,47.81,high,low,7,spaceship,,,03/10/2026 01:51
 5e2b65b2-b2b8-4a9f-b9ae-c85d066b39dd,opposite.hockey,available,59.99,59.99,high,low,8,namesilo,,,23/09/2026 22:35
 a7900746-0b4b-4694-b15f-2f74fd6c27ee,environmental.hockey,available,47.81,47.81,high,low,13,spaceship,,,01/10/2026 06:15
 77cffd9d-4945-49a9-a2e5-164d97ea5de7,ineffable.hockey,available,14.99,77.99,high,low,9,name.com,,,22/08/2026 02:45
@@ -935,67 +995,7 @@ dc980c48-98d3-4c81-849b-6f6e3ababfd9,aken.hockey,available,59.99,59.99,medium,lo
 a4f7a691-aacf-4287-953f-550ed6d523fe,sima.hockey,available,61,,medium,low,4,unstoppable,,,29/09/2026 13:57
 08174841-e1fd-4658-a637-c01ed7c09e51,martinez.hockey,available,61,,medium,low,8,unstoppable,,,28/09/2026 12:21
 2a7e307a-fa78-49ba-8320-84e993e576e2,binful.hockey,available,62.98,72.98,medium,low,6,namecheap,,,23/09/2026 17:14
+a968cfc1-c2fc-4a4f-908b-a380cd74876d,kwajalein.hockey,available,59.99,59.99,medium,low,9,namesilo,,,03/10/2026 01:26
 4218f062-ebbf-4fb2-bd9b-f2a792692acb,indi.hockey,available,59.99,59.99,medium,low,4,namesilo,,,02/10/2026 02:15
 d8dfbe01-4ffa-4104-a759-a42cc4b4f4ae,milliliter.hockey,available,14.99,77.99,medium,low,10,name.com,,,11/08/2026 22:53
 a0eb7aa9-c5af-4909-88ac-38f019fd8bb5,miguel.hockey,available,62.98,72.98,high,low,6,namecheap,,,25/09/2026 14:22
-5ca9b5c9-e7fc-4e03-b5d1-f565d2e19859,kurakkan.hockey,available,59.99,59.99,medium,low,8,namesilo,,,17/09/2026 15:21
-fdde6ec5-b3b9-4544-b286-e5312f167aa3,isthmian.hockey,available,14.99,77.99,medium,low,8,name.com,,,22/08/2026 11:34
-d8131892-328c-4d33-95a0-8a6b4115cc15,spacing.hockey,available,46.2,46.2,high,low,7,cloudflare,,,30/09/2026 18:47
-b6eaed80-b2bd-4f3a-b258-eefbfd6b9e22,pierre.hockey,available,59.99,59.99,high,low,6,namesilo,,,24/09/2026 12:24
-2593eb10-d03e-4792-a3f0-a31917820f56,alluvial.hockey,available,14.99,77.99,high,low,8,name.com,,,
-fcf52f0d-6583-4d45-af89-53e1bc0088d6,dastardly.hockey,available,14.99,77.99,medium,low,9,name.com,,,13/08/2026 18:31
-4a0fb436-5184-42db-bf9b-5b6d0137220f,addon.hockey,available,62.98,72.98,high,low,6,namecheap,,,17/09/2026 06:37
-1f138eeb-bb50-41ca-b410-f1624963339d,ordinal.hockey,available,59.99,59.99,high,low,7,namesilo,,,04/09/2026 17:44
-282e5340-f6ca-4a37-9d7d-d0a8f7b5a862,impute.hockey,available,59.99,59.99,medium,low,6,namesilo,,,21/09/2026 02:18
-d271aa77-321e-4859-9517-7a1c35070b6c,valid.hockey,available,46.2,46.2,high,low,5,cloudflare,,,28/09/2026 10:05
-a5d6bfce-8bec-4875-8868-dcd485eeeb5d,tearful.hockey,available,14.99,77.99,medium,low,7,name.com,,,14/08/2026 15:35
-58e3c2a3-90d3-42ae-be90-700504fbaa5c,antipathy.hockey,available,62.98,72.98,medium,low,9,namecheap,,,19/09/2026 14:53
-7bb08326-b673-4a21-bfbf-15c1f9364dc7,cavalry.hockey,available,61,,high,low,7,unstoppable,,,28/09/2026 09:16
-dfd760f0-5b7d-4694-a77e-7df5996ddad4,disgraceful.hockey,available,59.99,59.99,medium,low,11,namesilo,,,30/09/2026 23:03
-7462dcce-dafe-4475-a0f5-21906a480c0f,ape.hockey,available,14.99,77.99,high,low,3,name.com,,,
-cd0fb313-67b3-42f3-9417-e4c22ab03f4f,protests.hockey,available,46.2,46.2,medium,low,8,cloudflare,,,30/09/2026 07:34
-386e7d35-cf0c-413b-b385-f903f78f544c,willoughby.hockey,available,47.81,47.81,high,low,10,spaceship,,,28/09/2026 00:32
-c3573412-bfa3-46e2-8e7a-e5c281d3c747,frilled.hockey,available,14.99,77.99,medium,low,7,name.com,,,18/08/2026 15:49
-679038a1-745f-4697-b1ff-4df3ccf03ba8,hybrids.hockey,available,47.81,47.81,medium,low,7,spaceship,,,30/09/2026 14:39
-23669345-1baa-43c5-a8dd-ed83d64feb87,whorled.hockey,available,14.99,77.99,medium,low,7,name.com,,,12/08/2026 16:18
-6d14e1b1-014c-43a2-9f92-6b325559b693,tires.hockey,available,59.99,59.99,medium,low,5,namesilo,,,27/09/2026 10:07
-c790a48c-598a-47b2-9755-0f3ec2ac3d71,allergic.hockey,available,59.99,59.99,high,low,8,namesilo,,,22/09/2026 01:25
-70591b7e-96e0-4964-9b27-d71797c02b0f,liang.hockey,available,59.99,59.99,high,low,5,namesilo,,,29/09/2026 22:32
-1bdcbb8d-ad40-4bd8-9c03-961f6db82b19,inglorious.hockey,available,14.99,77.99,medium,low,10,name.com,,,21/08/2026 18:25
-c13af9b7-1b7e-4eb2-8e2e-601338c98970,northwest.hockey,available,47.81,47.81,medium,low,9,spaceship,,,28/09/2026 17:00
-3c416138-aa16-48da-9883-9ed7a95d4e5e,concentration.hockey,available,46.2,46.2,high,low,13,cloudflare,,,27/09/2026 21:44
-c9c8a0a1-3c9d-4c33-8e06-ce6f2368f274,clxxx.hockey,available,14.99,77.99,medium,low,5,name.com,,,
-cf63533d-4636-4fd1-9c47-449f03f6a409,connor.hockey,available,59.99,59.99,high,low,6,namesilo,,,25/09/2026 15:29
-0dbd72ae-4c16-4130-805d-ec883e71e3d6,frenchman.hockey,available,47.81,47.81,high,low,9,spaceship,,,29/09/2026 07:00
-e3b538d1-a15e-484a-8a47-4a57e84bbe16,steakhouse.hockey,available,59.99,59.99,high,low,10,namesilo,,,24/09/2026 14:46
-3922b274-da21-4a88-9296-d9e36c6d7b51,kyiv.hockey,available,59.99,59.99,high,low,4,namesilo,,,30/09/2026 13:29
-687a752a-4429-4185-8bfe-99b2641c1d00,adience.hockey,available,59.99,59.99,medium,low,7,namesilo,,,17/09/2026 08:09
-64fcc394-d2ee-45d9-91f9-e6a2be6ad414,eastward.hockey,available,14.99,77.99,high,low,8,name.com,,,14/08/2026 22:48
-f83f24db-231b-43e2-ab57-e012b1a43916,crosses.hockey,available,8.24,47.89,medium,low,7,porkbun,,,28/09/2026 17:44
-5792a084-3e40-49fc-8d65-a8b0330b7de4,perplex.hockey,available,62.98,72.98,high,low,7,namecheap,,,21/09/2026 17:26
-d7e2201e-1354-40f7-9d62-0c1cbe5bae7e,potent.hockey,available,59.99,59.99,high,low,6,namesilo,,,09/09/2026 00:48
-cf7a627e-0da4-4000-aa60-c6b4860d0e62,sidelong.hockey,available,14.99,77.99,medium,low,8,name.com,,,07/08/2026 03:26
-c4e0cbf1-b355-4abc-8aa0-24ee848e2e35,vitalizing.hockey,available,14.99,77.99,high,low,10,name.com,,,23/08/2026 01:35
-3cfcad56-b35b-4c2e-a8e9-972025b0ea39,accompany.hockey,available,59.99,59.99,high,low,9,namesilo,,,24/09/2026 16:41
-dc73c498-462c-4040-b82b-936b730b47b2,exaggerate.hockey,available,47.81,47.81,high,low,10,spaceship,,,30/09/2026 19:19
-7a51b14f-214b-41e3-b5e2-6810c6eba420,kinky.hockey,available,14.99,77.99,high,low,5,name.com,,,17/08/2026 22:20
-60fe95f8-7f8c-49d0-a00d-b650e4e0ebe9,deciders.hockey,available,59.99,59.99,medium,low,8,namesilo,,,20/09/2026 23:38
-a24beddb-ca3d-48d9-88d8-9bf0b50f6da4,sunstone.hockey,available,59.99,59.99,high,low,8,namesilo,,,21/09/2026 09:07
-3a2dbcbc-d8a3-4507-9a41-09e5a58eb7ca,momentary.hockey,available,14.99,77.99,medium,low,9,name.com,,,18/08/2026 07:54
-f32c17cd-d663-490d-82c1-2e05edb0ff94,dun.hockey,available,14.99,77.99,medium,low,3,name.com,,,14/08/2026 21:12
-815873a6-a3c4-45c9-b7eb-11f79de163d5,airlift.hockey,available,62.98,72.98,high,low,7,namecheap,,,17/09/2026 23:13
-97f83036-92fe-4312-94b6-6b24546fcc12,gaol.hockey,available,14.99,77.99,medium,low,4,name.com,,,08/09/2026 22:46
-fb742603-0d00-4bcc-976e-1ae3dc1d7840,boaster.hockey,available,14.99,77.99,medium,low,7,name.com,,,11/08/2026 01:18
-6fdca3f9-c108-4875-854f-a718bf6efecf,bloomsbury.hockey,available,61,,medium,low,10,unstoppable,,,29/09/2026 18:00
-5909ce23-c501-4a8d-b6c1-01c5aa84c5e4,irving.hockey,available,59.99,59.99,medium,low,6,namesilo,,,25/09/2026 07:50
-6f0358cb-e615-4d85-92c5-0a7af1354063,weasel.hockey,available,59.99,59.99,high,low,6,namesilo,,,29/09/2026 08:19
-3ee043a3-ec06-4d38-8302-0f68c440e1b5,failures.hockey,available,62.98,72.98,low,low,8,namecheap,,,20/09/2026 17:55
-95e45323-f546-4102-a69f-7229000995aa,dais.hockey,available,59.99,59.99,high,low,4,namesilo,,,18/09/2026 17:12
-3f83df67-d943-4f01-a6cf-3267f5e37f34,ecology.hockey,available,59.99,59.99,high,low,7,namesilo,,,23/09/2026 18:42
-e70ba44c-0e4e-4d1e-82e3-e83914ce1588,aphelion.hockey,available,59.99,59.99,medium,low,8,namesilo,,,19/09/2026 16:55
-d8e0db86-548a-4096-b7d2-ec8105b7e797,yearner.hockey,available,59.99,59.99,medium,low,7,namesilo,,,15/09/2026 12:51
-633737b8-4724-4f2a-826b-44544923a47f,rotating.hockey,available,59.99,59.99,high,low,8,namesilo,,,29/09/2026 16:17
-73bf979b-9679-4433-953a-65256a8064fa,giddy.hockey,available,14.99,77.99,medium,low,5,name.com,,,
-9355d059-6819-4f27-8b5c-040540e652ec,traveller.hockey,available,62.98,72.98,high,low,9,namecheap,,,30/09/2026 13:54
-4d077b0b-4cdc-4f1f-b067-24b94c58e246,manycore.hockey,available,59.99,59.99,medium,low,8,namesilo,,,17/09/2026 08:17
-a2bb1207-cb7a-4b7f-ac4c-a753a688f2fe,sealed.hockey,available,47.81,47.81,high,low,6,spaceship,,,27/09/2026 18:59
